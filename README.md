@@ -1,9 +1,9 @@
 # emt_basic
 Comprehensive review of test materials for the EMT-Basic Program owned &amp; operated by NMETC
 
-#### Flash-Card Difficulty Distribution (All Modules, Q1–100)
+#### Question Difficulty Distribution (All Modules, Q1–100)
 
-| Module           | Cards | 🟢 Basic | 🟡 Average | 🟠 Difficult | 🟥 Remove |
+| Module           | Q's | 🟢 Basic | 🟡 Average | 🟠 Difficult | 🟥 Remove |
 |------------------|-------|----------|------------|--------------|-----------|
 | Module 1 (1–100) | 100   | 60       | 36         | 4            | 0         |
 | Module 2 (1–100) | 100   | 56       | 40         | 4            | 0         |
