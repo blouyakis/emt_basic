@@ -1,4 +1,4 @@
-### MODULE 1 • Flash-Cards • Q 1-100  
+### MODULE 1 • Questions • Q 1-100  
 Color key 🟢 Basic 🟡 Average 🟠 Difficult 🟥 Remove  
 
 ---
