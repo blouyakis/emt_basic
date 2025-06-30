@@ -143,7 +143,7 @@ In which of the following situations is it legal to share information about trea
 
 ---
 
-### Q11 🟢  
+### Q11 🟡  
 **Front**  
 What is the stage of development where there are several physiological and psychosocial changes, second only to those seen in infancy or adolescence?  
 · Late adulthood  
@@ -152,8 +152,8 @@ What is the stage of development where there are several physiological and psych
 · Toddler  
 
 **Back**  
-**Answer:** Middle adulthood  
-**Why Basic.**
+**Answer:** Late adulthood  
+**Why Average.**
 
 ---
 
@@ -243,7 +243,7 @@ What is not the priority of an EMT at the scene of a hazardous materials inciden
 
 ### Q18 🟢  
 **Front**  
-Partner rushes into unsafe scene at rollover; you shout stop. Best explanation later?  
+You and your new EMT partner arrive first on the scene of a single car rollover on the shoulder of a busy highway. You pull off in a safe location and just as you stop the ambulance, your partner throws the passenger door open, steps out of the truck, and begins jogging through the scattered debris toward the overturned car. You shout for him to stop and he looks back at you, but then continues to the vehicle and begins assessing the driver. Later, as you are restocking in the ambulance bay of the local trauma center, your partner tells you that he thinks you acted unprofessionally by shouting at him. What is the best way to respond? 
 · New EMTs should expect partners to yell at them occasionally.  
 · The On-Duty Supervisor should be called.  
 · An EMT should never hurry to assist a patient.  
@@ -257,7 +257,7 @@ Partner rushes into unsafe scene at rollover; you shout stop. Best explanation l
 
 ### Q19 🟡  
 **Front**  
-400-lb patient dizzy syncopal, cannot assist movement. Best approach?  
+You and your partner arrive on the scene of a 400-pound patient lying in bed. He complains of nausea and vomiting for the past 3 days. When he tries to sit up, he gets very dizzy and has a syncopal episode. Realizing that he cannot assist you in getting on the stretcher, you decide to do which of the following?
 · Backboard for grip points.  
 · Use sheets to slide to stretcher.  
 · Power-lift technique carefully.  
@@ -467,7 +467,7 @@ What is the strongest and most muscular part of the heart?
 
 ### Q34 🟢  
 **Front**  
-Violent angry 26-year-old threatens you then runs to kitchen. What should you do?  
+You are on the scene of an "unknown medical" call. The patient is a 26-year-old, 250-pound male patient who suddenly becomes violently angry. Everything you say to the patient only makes him angrier. Offended by your questions, he screams that he is going to "cut your tongue out" and hurries into the kitchen. What should you do?  
 · Radio for police and then calmly walk out taking all equipment.  
 · Leave immediately to a safe area and then call for police assistance.  
 · Tackle the patient before he can get a kitchen knife to stab you.  
@@ -523,7 +523,7 @@ What vessel carries deoxygenated blood to the lungs?
 
 ### Q38 🟡  
 **Front**  
-84-year-old with heart failure asks which chamber pumps oxygenated blood to body?  
+Your patient is an 84-year-old male with difficulty breathing and peripheral edema. He tells you he has been suffering for many years with "heart failure," and his condition is worsening, especially with trouble breathing at night. Your knowledge of cardiovascular physiology suggests that his condition could have resulted from the failure of either the right or left side of his heart. Which chamber of the heart is the strongest, most muscular part of the heart and is primarily responsible for pumping oxygenated blood to the rest of the body?  
 · Left atrium  
 · Left ventricle  
 · Right atrium  
@@ -552,7 +552,10 @@ Why should an EMT avoid the use of acronyms and abbreviations when communicating
 ### Q40 🟡  
 **Front**  
 The sympathetic nervous response causes which of the following to occur?  
-· (Options list; correct choice = breathing faster/deeper, vessels constrict, HR ↑, sweat, pupils dilate, skin pale.)  
+· Breathing becomes slower and deeper, blood vessels dilate, heart beats stronger and faster, skin sweats, pupils constrict, and skin becomes pale.
+· Breathing becomes faster and deeper, blood vessels dilate, heart beats stronger and slower, skin sweats, pupils dilate, and skin becomes pale.
+· Breathing becomes faster and deeper, blood vessels constrict, heart beats stronger and faster, skins sweats, pupils constrict, and skin becomes warm.
+· Breathing becomes faster and deeper, blood vessels constrict, heart beats stronger and faster, skin sweats, pupils dilate, and skin becomes pale.
 
 **Back**  
 **Answer:** Breathing becomes faster & deeper, blood vessels constrict, heart beats stronger & faster, skin sweats, pupils dilate, skin becomes pale.  
@@ -562,7 +565,7 @@ The sympathetic nervous response causes which of the following to occur?
 
 ### Q41 🟡  
 **Front**  
-Vehicle off bridge partially submerged; partner willing to die to rescue. Best response?  
+You are first on the scene of a vehicle collision where a vehicle has gone off a bridge and is partially submerged. You are told that a person is still trapped in the vehicle. Your partner starts to take off his shoes and prepares to go in to save the victim. You stop your partner and tell him it is too dangerous. He tells you he is prepared to die to save a life. What is the best response to him? 
 · He is not only putting his life at risk, but also placing the lives of the professional rescuers unnecessarily at risk.  
 · His family will not receive any benefits if he is not trained in rescue and dies while attempting a rescue.  
 · He will force additional fire units to come to his aid unnecessarily and waste taxpayer money.  
@@ -576,8 +579,11 @@ Vehicle off bridge partially submerged; partner willing to die to rescue. Best r
 
 ### Q42 🟢  
 **Front**  
-EMT partner uses “ambulate” with patient; you advise plain language because…  
-· Clear understanding is key; medical terms can cause confusion.  
+You and your newly hired EMT partner arrive on the scene of a bicycle collision at the local community park. One cyclist stands by and says that she has no injuries. The other is lying on his side on the bike path, guarding his ribs and holding the lower part of his left leg. Your partner kneels next to the man, introduces herself, and asks, "Can you ambulate?" The patient looks up, confused and in obvious pain. "Can you ambulate? You know…walk?" Your partner says, a little louder. After transporting the patient, you discuss the call with your partner and suggest that she avoid using medical terms unnecessarily when talking with patients. She seems insulted and says, "Why?" What would you say?
+· Tell her that the point of communicating with patients and other providers is so there is clear understanding; using medical terms when not necessary can cause confusion.
+· You should say that you are an experienced EMT and because she is new, she should just take your advice and apply it.
+· Explain that using large words and medical terms can be seen as being egotistical, which can alienate both patients and other providers.
+· Tell her that the general public isn't smart enough to understand medical terminology and that all communication must be "dumbed down" when talking to patients.
 **Back**  
 **Answer:** Tell her clear understanding is key; using medical terms unnecessarily can confuse patients.  
 _Why Basic._
@@ -1083,7 +1089,7 @@ You respond to the scene of a two-vehicle T-bone vehicle collision. The driver�
 · Carefully move the patient using full c-spine precautions.  
 
 **Back**  
-**Answer:** Carefully move the patient using full c-spine precautions.  
+**Answer:** Move the patient out of the car as quickly as possible, in the direction of the long axis of the body.
 ---
 
 ### Q83 🟢  
