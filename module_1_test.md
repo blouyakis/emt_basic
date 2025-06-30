@@ -4,7 +4,7 @@ Color key 🟢 Basic 🟡 Average 🟠 Difficult 🟥 Remove
 ---
 
 ### Q1 🟢  
-**Front (verbatim)**  
+**Front**  
 Which of the following stages is commonly referred to as "the twilight years"?  
 · Early adulthood  
 · Adolescence  

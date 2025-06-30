@@ -5,7 +5,7 @@ Comprehensive review of test materials for the EMT-Basic Program owned &amp; ope
 
 | Module           | Q's | 🟢 Basic | 🟡 Average | 🟠 Difficult | 🟥 Remove |
 |------------------|-------|----------|------------|--------------|-----------|
-| Module 1 (1–100) | 100   | 60       | 36         | 4            | 0         |
+| Module 1 (1–100) | 100   | 59       | 37         | 4            | 0         |
 | Module 2 (1–100) | 100   | 56       | 40         | 4            | 0         |
 | Module 3 (1–100) | 100   | 68       | 28         | 4            | 0         |
 | Module 4 (1–100) | 100   | 66       | 30         | 4            | 0         |
@@ -16,8 +16,8 @@ Comprehensive review of test materials for the EMT-Basic Program owned &amp; ope
 
 | Category      | Count | Percentage |
 |---------------|-------|------------|
-| 🟢 Basic      | 340   | 68.0 %     |
-| 🟡 Average    | 144   | 28.8 %     |
-| 🟠 Difficult  | 16    | 3.2 %      |
-| 🟥 Remove     | 0     | 0 %        |
+| 🟢 Basic      | 339   | 0.00 %     |
+| 🟡 Average    | 145   | 0.00 %     |
+| 🟠 Difficult  | 16    | 0.00 %     |
+| 🟥 Remove     | 0     | 0.00 %     |
 | **Total**     | 500   | 100 %      |
