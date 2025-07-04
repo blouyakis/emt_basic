@@ -502,12 +502,12 @@ An inaccurate oxygen saturation reading can result from all of the following exc
 **Front**  
 Your elderly patient reports having stomach cramps for several hours. He denies any trauma and he hasn’t eaten for several hours. Which of the following is most important to your assessment of this patient?  
 · Determining if he has been taking his medications as prescribed  
-· Asking if he has been having regular bowel movements  
+· **Asking if he has been having regular bowel movements  **
 · Asking him if he is able to walk  
 · Finding out if he has any chest pain  
 
 **Back**  
-**Answer:** Finding out if he has any chest pain (possible cardiac presentation).  
+**Answer:** Asking if he has been having regular bowel movements.  
 ---
 
 ### Q43 🟢  
@@ -644,19 +644,19 @@ As you arrive at the ED with an unresponsive trauma patient, the nurse asks for 
 ### Q54 🟢  
 **Front**  
 The normal blood-glucose range is 70 mg/dL to about:  
-· 90 · 100 · **110** · 120  
+· 90 · **100** · 110 · 120  
 
 **Back**  
-**Answer:** 110 mg/dL  
+**Answer:** 100 mg/dL  
 ---
 
-### Q55 🟢  
+### Q55 🟡  
 **Front**  
 A ________ is not typically used in the prehospital setting for oxygen administration.  
-· Nasal cannula · **Regulator** · Partial rebreather mask · Tracheostomy mask  
+· Nasal cannula · Regulator · **Partial rebreather mask** · Tracheostomy mask  
 
 **Back**  
-**Answer:** Regulator (it controls pressure, not delivery).  
+**Answer:** Partial rebreather mask 
 ---
 
 ### Q56 🟢  
@@ -703,7 +703,7 @@ You must check if heavy vaginal bleeding has stopped in an 18-year-old female. Y
 
 ### Q60 🟢  
 **Front**  
-During transport a head-trauma patient becomes unresponsive. Your next action:  
+You are transporting a victim of domestic violence, a 25-year-old female, who was struck on the head several times with a baseball bat. On the scene, she was responsive to verbal stimuli and was bleeding profusely from an open head wound. During transport, the patient becomes unresponsive. Which of the following should you do next?  
 · Detailed exam · Vital-signs & SAMPLE · **Primary assessment** · Secondary assessment  
 
 **Back**  
@@ -712,19 +712,19 @@ During transport a head-trauma patient becomes unresponsive. Your next action:
 
 ### Q61 🟡  
 **Front**  
-To verify your asthma field diagnosis you should:  
-· Ask partner’s opinion.  
+You are on the scene of a 16-year-old patient in respiratory distress. The patient has a history of asthma. After placing the patient on oxygen and performing the primary and secondary assessments, you are confident that the patient is indeed having an asthma attack. How can you be sure your field diagnosis is accurate? 
+· Ask your partner her opinion; if she also agrees that it is asthma, the diagnosis is correct.
+· Constantly reassess the patient to make sure you are correct.
 · Keep textbook for reference.  
-· **Rule in/out other causes by constant reassessment.**  
-· Assume you’re correct.
+· **Think of all possible causes of respiratory distress and rule them in or out as potential diagnoses based on your clinical findings.**  
 
 **Back**  
-**Answer:** Reassess & consider alternate causes.  
+**Answer:** Think of all possible causes of respiratory distress and rule them in or out as potential diagnoses based on your clinical findings.
 ---
 
 ### Q62 🟡  
 **Front**  
-Patient refuses back-board after scalp lac; proper report must include:  
+You are on a call of a minor vehicle accident. Your patient is a 22-year-old male who was the driver of a moderate T-bone collision. The patient was not wearing a seat belt, and there was spidering of the windshield. The patient complains of neck pain and has a scalp laceration. After performing the primary assessment, you take vital signs and bandage the patient's scalp. When you tell him you need to backboard him, he refuses care and ambulance transport. Because the person is alert and oriented to time, place, and person, you have the patient sign the separate patient refusal form provided by your service. How should you document this incident in your EMS report?
 · Only care given.  
 · Simply note risks were explained.  
 · **Everything: care, persuasion attempts, witnesses.**  
@@ -736,7 +736,7 @@ Patient refuses back-board after scalp lac; proper report must include:
 
 ### Q63 🟢  
 **Front**  
-Teen found supine with vomit and pill fragments. First action?  
+You find a teenage male lying supine in his bedroom. You hear gurgling sounds from the patient's mouth and see vomit with pill fragments on the floor. You should:
 · Ventilate with O₂ · Chest thrusts · **Suction the airway** · Identify pills  
 
 **Back**  
@@ -745,7 +745,7 @@ Teen found supine with vomit and pill fragments. First action?
 
 ### Q64 🟢  
 **Front**  
-Expert clinicians may use different approaches, but share a:  
+Expert clinicians may use different approaches of thinking through problems, but which of the following will they have in common?
 · Dislike of ambiguity  
 · **Strong foundation of knowledge**  
 · Single strategy for everyone  
@@ -757,7 +757,7 @@ Expert clinicians may use different approaches, but share a:
 
 ### Q65 🟢  
 **Front**  
-Having a keen awareness that unseen injuries may exist is called the:  
+You should have a keen awareness that there may be injuries based on your scene size-up. This is known as which of the following?
 · Law of inertia · Nature of illness · Mechanism of injury · **Index of suspicion**  
 
 **Back**  
@@ -775,7 +775,7 @@ On which calls should you bring portable suction to patient-side?
 
 ### Q67 🟢  
 **Front**  
-A description of a patient’s condition that assists further evaluation and treatment is a:  
+A description of a patient's condition that assists a clinician in further evaluation and treatment is known as which of the following?
 · Critical thinking · Red flag · **Diagnosis** · Clinical decision  
 
 **Back**  
@@ -784,7 +784,7 @@ A description of a patient’s condition that assists further evaluation and tre
 
 ### Q68 🟡  
 **Front**  
-Which is **not** appropriate for a female with minor ankle sprain?  
+Your patient is a 45-year-old female who complains of "twisting her ankle" when she slipped on a patch of ice. Which of the following is not appropriate?
 · Question other complaints  
 · **Detailed physical exam**  
 · Provide emotional support  
@@ -796,7 +796,7 @@ Which is **not** appropriate for a female with minor ankle sprain?
 
 ### Q69 🟢  
 **Front**  
-Bruises are medically known as:  
+In medical terms, bruises are known as which of the following?
 · **Contusions** · Abrasions · Deformities · Lacerations  
 
 **Back**  
@@ -805,26 +805,26 @@ Bruises are medically known as:
 
 ### Q70 🟢  
 **Front**  
-Which situation will **not** need additional resources?  
-· Industrial hand-in-machine  
-· 300-lb woman with back pain  
-· Home with natural-gas odor  
-· **COPD patient on home oxygen**  
+Which of the following situations will not require additional resources at the scene?
+A call to a manufacturing plant where a worker has his hand caught in a machine
+A 300-pound woman complaining of back pain
+A call for a sick person at home during which an odor of natural gas is detected
+**A patient with emphysema who is on oxygen therapy at home**
 
 **Back**  
-**Answer:** COPD patient on home O₂.  
+**Answer:** A patient with emphysema who is on oxygen therapy at home.  
 ---
 
 ### Q71 🟡  
 **Front**  
-Security guard asks for “yellow copy” of PCR. You should:  
+You have responded to a call at a government office building. One of the office workers became very upset during a fire drill and experienced an episode of difficulty breathing. As your partner is speaking with the patient, who is not sure she wants to be transported, an individual wearing civilian clothes approaches you and states she is a security guard in the building. She asks you for the "yellow copy" of your prehospital care report. Which of the following should you do?
 · Get medical-control permission  
 · Provide if ID shown  
-· **Ask the patient for consent**  
-· State you cannot share due to confidentiality  
+· **State you cannot share due to confidentiality** 
+· Ask the patient for consent 
 
 **Back**  
-**Answer:** Obtain patient’s permission first.  
+**Answer:** State you cannot share due to confidentiality
 ---
 
 ### Q72 🟢  
@@ -838,7 +838,7 @@ Color identifying an oxygen cylinder:
 
 ### Q73 🟢  
 **Front**  
-You approach 16-year-old with spurting leg wound. First action:  
+You are approaching a 16-year-old male with bright red spurting blood coming from his leg. He is screaming and he begs you to help him. You should:
 · Assess airway · Apply O₂ · Ask to calm down · **Control the bleeding**  
 
 **Back**  
@@ -889,7 +889,7 @@ HIPAA requires ambulance services to do all except:
 
 ### Q78 🟢  
 **Front**  
-“Broken-hip” fall from tree-house (15 ft). Appropriate destination:  
+Your patient fell out of a tree while putting the roof on a tree house. A 15-foot ladder is required to enter the tree house and there is enough room for an adult to stand up inside. Your patient should be transported to:
 · Closest hospital · Neurosurgery center · **Trauma center** · Urgent care  
 
 **Back**  
@@ -898,7 +898,7 @@ HIPAA requires ambulance services to do all except:
 
 ### Q79 🟢  
 **Front**  
-Most reliable way to find immediate life threats:  
+Which of the following is the most reliable means of determining whether a patient has any immediately life-threatening conditions?
 · Detailed history · **Systematic assessment** · Intuition · Scene size-up alone  
 
 **Back**  
@@ -907,7 +907,7 @@ Most reliable way to find immediate life threats:
 
 ### Q80 🟢  
 **Front**  
-Key pediatric difference:  
+Which of the following differences should be expected when assessing a pediatric patient, as compared to an adult patient?
 · Adult tongue larger · **Normal respiratory rate faster**  
 · Normal pulse slower · Cap-refill unreliable  
 
@@ -917,7 +917,7 @@ Key pediatric difference:
 
 ### Q81 🟡  
 **Front**  
-MVC— look inside car for patient injuries. Which to look for?  
+You respond to the scene of a motor vehicle crash to find a middle-aged man on a long spine board being cared for by first responding firefighters. He appears to be bleeding from his head and he is unconscious. You should check the car for:
 · Insurance info · Deployed passenger airbag · **Bent steering wheel or starred windshield** · Valuable items  
 
 **Back**  
@@ -926,19 +926,19 @@ MVC— look inside car for patient injuries. Which to look for?
 
 ### Q82 🟡  
 **Front**  
-18-year-old conscious driver, passenger dead. After primary assessment you should:  
+Your patient is the 18-year-old male driver of a vehicle that struck a tree. He is conscious and complaining of neck pain. The passenger is obviously dead. You have performed your primary assessment. Which of the following is the next step?
 · Rule out C-spine before moving  
-· **Immobilize on long backboard & perform detailed exam in ambulance**  
+· Immobilize on long backboard & perform detailed exam in ambulance 
 · Perform tertiary assessment  
-· Rapid trauma again
+· **Rapid trauma again**
 
 **Back**  
-**Answer:** Immobilize then detailed exam en-route.  
+**Answer:** Rapid trauma again.  
 ---
 
 ### Q83 🟢  
 **Front**  
-22-year-old narcotic OD, shallow breathing, vomit; first airway step?  
+Your patient is breathing 4 shallow breaths per minute due to overdosing on his pain medication but he has a palpable radial pulse. He vomited prior to your arrival and is choking. You should:
 · Chest thrusts · Insert OPA · Move & suction · **Roll onto side to clear airway**  
 
 **Back**  
@@ -947,7 +947,7 @@ MVC— look inside car for patient injuries. Which to look for?
 
 ### Q84 🟢  
 **Front**  
-Injury caused by object passing through skin & tissue:  
+An injury caused by an object that passes through the skin or other body tissue is known as which of the following?
 · **Penetrating trauma** · Cavitating · Impaling · Puncturing  
 
 **Back**  
@@ -956,7 +956,7 @@ Injury caused by object passing through skin & tissue:
 
 ### Q85 🟢  
 **Front**  
-Nasal cannula flow should not exceed ___ L/min.  
+The oxygen flow rate for a nasal cannula should not exceed ________ liters per minute.
 · **6** · 4 · 2 · 8  
 
 **Back**  
@@ -974,7 +974,7 @@ Which structure is in the **lower** airway?
 
 ### Q87 🟢  
 **Front**  
-Evaluate need for Standard Precautions:  
+When should the EMT evaluate the need for Standard Precautions?
 · No need—same every call  
 · **Throughout the call**  
 · Before arrival only  
@@ -986,7 +986,7 @@ Evaluate need for Standard Precautions:
 
 ### Q88 🟡  
 **Front**  
-You notice a fluid-filled tube under patient’s arm when applying BP cuff. You should:  
+You are about to apply a blood pressure cuff to an unconscious patient when you notice that she appears to have a tube underneath the skin of her arm. The tube feels like it has fluid going through it. You should:
 · **Find another site**  
 · Use automatic cuff  
 · Move cuff to forearm  
@@ -998,7 +998,7 @@ You notice a fluid-filled tube under patient’s arm when applying BP cuff. You 
 
 ### Q89 🟡  
 **Front**  
-After rapid exam on multi-fracture patient, next step?  
+You have performed a rapid trauma assessment on a patient with multiple long-bone injuries. Your next assessment step should be which of the following?
 · Transport & detailed exam later  
 · Detailed physical exam  
 · Call ALS ETA then decide  
@@ -1010,7 +1010,7 @@ After rapid exam on multi-fracture patient, next step?
 
 ### Q90 🟢  
 **Front**  
-Repeating vitals every 15 min during transport indicates patient is:  
+While transporting a patient to the hospital, the EMT repeats his reassessment including vital signs every 15 minutes until he arrives at the emergency department. According to this information, which of the following best describes your patient's current status?
 · **Stable** · Unstable · Poor · Unknown  
 
 **Back**  
@@ -1019,7 +1019,7 @@ Repeating vitals every 15 min during transport indicates patient is:
 
 ### Q91 🟢  
 **Front**  
-With HR 82, RR 16, BP 120/80; repeat vitals at least every:  
+Your patient has a heart rate of 82, a respiratory rate of 16, and a blood pressure of 120/80 and does not appear to be in any distress. You should repeat vital sign measurements at least every:
 · 10 min · **15 min** · 20 min · 5 min  
 
 **Back**  
@@ -1028,7 +1028,7 @@ With HR 82, RR 16, BP 120/80; repeat vitals at least every:
 
 ### Q92 🟢  
 **Front**  
-10-ft fall landing on feet—what areas assess?  
+Where should the EMT assess for injury when caring for a patient who had a 10-foot fall and landed square on his feet?
 · Ankles · Femur · Pelvis · **All of the above**  
 
 **Back**  
@@ -1037,7 +1037,7 @@ With HR 82, RR 16, BP 120/80; repeat vitals at least every:
 
 ### Q93 🟢  
 **Front**  
-To deliver O₂ at safe pressure you need a(n):  
+Which of the following is necessary to deliver oxygen to patients at a safe pressure?
 · **Regulator** · Float ball · Filter · Flowmeter only  
 
 **Back**  
@@ -1076,7 +1076,7 @@ On which patients should a reassessment be performed?
 
 ### Q97 🟢  
 **Front**  
-Crackling sensation when air trapped under skin is:  
+Your patient was struck in the chest with a baseball bat during a bar fight. A crackling or crunching sensation that is felt when air escapes from its normal passageways and is trapped under the skin is called:
 · Tension pneumo · **Subcutaneous emphysema** · Crepitation · Distention  
 
 **Back**  
@@ -1085,7 +1085,7 @@ Crackling sensation when air trapped under skin is:
 
 ### Q98 🟢  
 **Front**  
-Which patient needs a tracheostomy mask for O₂?  
+Which of these patients would require a tracheostomy mask for supplemental oxygen administration?
 · Quadriplegia · **Patient with a stoma** · Chronic bronchitis · Upper airway inflammation  
 
 **Back**  
@@ -1103,7 +1103,7 @@ Another term for trauma is:
 
 ### Q100 🟢  
 **Front**  
-17-year-old unresponsive cyanotic with agonal respirations on football field; first action?  
+You have arrived on the scene at a high school football field where a 17-year-old male is lying on the ground. He is unresponsive and cyanotic, and he is making obvious respiratory effort without moving adequate amounts of air. Which of the following should be done first?
 · Apply NRB O₂ · **Open airway manually** · Assist ventilations BVM + O₂ · Insert NPA/OPA  
 
 **Back**  
