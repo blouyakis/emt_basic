@@ -4,7 +4,7 @@ Color key 🟢 Basic 🟡 Average 🟠 Difficult 🟥 Remove
 ---
 
 ### Q1 🟡  
-**Front (verbatim)**  
+**Front**  
 You respond to the scene of a 56-year-old obese female complaining of respiratory distress. She states that she has been feeling weak and “a little sick” for the past two days, but the respiratory distress has been getting progressively worse for the past several hours. She states she has “heart problems,” suffers from high blood pressure, and takes a “water pill.” She is afebrile and has coarse crackles bilaterally. What is most likely the cause of her respiratory distress?  
 · Dysrhythmia  
 · **Congestive heart failure**  
@@ -22,11 +22,11 @@ You respond to the scene of a 56-year-old obese female complaining of respirator
 You respond to the scene of a private residence for a patient who is known to have insulin-dependent diabetes. The patient is combative and cursing as you approach. Should this patient be restrained?  
 · No, this patient is not likely experiencing a behavioral emergency.  
 · Yes, he is combative and all combative patients can be restrained.  
-· **Yes, he likely has a medical condition that requires treatment.**  
-· There is not enough information to answer this question.  
+· Yes, he likely has a medical condition that requires treatment.  
+· **There is not enough information to answer this question.** 
 
 **Back**  
-**Answer:** Yes—protect patient/crew so treatment of possible hypoglycemia can proceed.  
+**Answer:** There is not enough information to answer this question.
 
 ---
 
@@ -82,7 +82,7 @@ Which of the following is the name given to the condition in which fluid accumul
 
 ### Q8 🟢  
 **Front**  
-A 34-year-old male complaining of pain “in his right side” is pale, diaphoretic, anxious. Which approach is most appropriate?  
+Your patient is a 34-year-old male complaining of pain "in his right side." He is pale and diaphoretic with a heart rate of 90 beats per minute, a respiratory rate of 28 breaths per minute, and a blood pressure of 132/80 mmHg. The patient is very agitated and anxious. Which approach is most appropriate? 
 · Reassure and promise total comfort · **Reassure him and expedite transport for definitive care.** · Insert an OPA · Refuse transport if non-compliant  
 
 **Back**  
@@ -102,7 +102,7 @@ Which of the following types of drugs may induce sleep or stupor?
 
 ### Q10 🟡  
 **Front**  
-Bee-sting anaphylaxis; patient unresponsive, agonal 6 /min, difficult to bag, absent bases. Best action?  
+You respond to a local swim park for a 29-year-old male who was stung by a bee and "passed out." Upon arrival, you find the patient unresponsive to all stimuli with agonal respirations at 6 per minute. You insert an oral airway and administer oxygen at 15 liters per minute by bag-valve mask. You notice that it is difficult to bag the patient. Your partner listens to lung sounds and states they are very diminished in the upper fields and absent in the lower fields. What is the best action? 
 · Request ALS · **Request orders to administer epinephrine.** · Request cricothyrotomy orders · Hyperventilate  
 
 **Back**  
@@ -113,7 +113,7 @@ Bee-sting anaphylaxis; patient unresponsive, agonal 6 /min, difficult to bag, ab
 ### Q11 🟢  
 **Front**  
 Which of the following is **not** an indication that epinephrine is helping the anaphylaxis patient’s condition?  
-· Increased blood pressure · **Increased dyspnea** · Increased heart rate  
+· Increased blood pressure · **Increased dyspnea** · Increased heart rate  · Both B & C
 
 **Back**  
 **Answer:** Worsening dyspnea indicates failure, not improvement.  
@@ -122,7 +122,7 @@ Which of the following is **not** an indication that epinephrine is helping the 
 
 ### Q12 🟢  
 **Front**  
-A 13-year-old with fever, cough, red-blotch rash face & trunk, Koplik spots cheeks. Likely diagnosis?  
+You are called to the scene of a 13-year-old male with a fever and cough. Upon assessment, you note a red blotch rash on the face and trunk, and small bluish-white spots on the inside of the cheeks. Based on this presentation, the patient likely has:  
 · Hepatitis A · Shingles · Chickenpox · **Measles**  
 
 **Back**  
@@ -132,17 +132,17 @@ A 13-year-old with fever, cough, red-blotch rash face & trunk, Koplik spots chee
 
 ### Q13 🟢  
 **Front**  
-BEST shock sequence for patient in ventricular tachycardia?  
+Which of the following BEST describes an appropriate shock sequence for the patient in ventricular tachycardia?
 · Shock×4 · Shock×3 then pulse check · Shock/pulse check alternating · **Shock ➜ 2 min CPR ➜ re-analyze ➜ shock if indicated**  
 
 **Back**  
-**Answer:** Current AED/ACLS sequence.  
+**Answer:** Shock, 2 minutes of CPR, reanalyze, shock again if indicated.  
 
 ---
 
 ### Q14 🟢  
 **Front**  
-Preparing AED, you feel a lump below right clavicle (pacemaker). How modify pad placement?  
+You are preparing a patient in cardiac arrest for an AED when you palpate a small lump below the patient's right clavicle. How should this modify your placement of the AED?
 · Standard placement · Place over abdomen · Don’t use AED · **Pads several inches away from device**  
 
 **Back**  
@@ -152,7 +152,7 @@ Preparing AED, you feel a lump below right clavicle (pacemaker). How modify pad 
 
 ### Q15 🟡  
 **Front**  
-Which statement regarding forcible restraint is true?  
+Which of the following statements concerning forcible restraint of patients is true?
 · Easily done by two EMTs · **Normally considered within law-enforcement jurisdiction** · Causes irreparable emotional harm · Needed only in mentally ill  
 
 **Back**  
@@ -172,7 +172,7 @@ The primary cause of COPD is:
 
 ### Q17 🟢  
 **Front**  
-You respond to assist police with anxious, tachycardic, angry 35-year-old “high as a kite.” Suspected substance?  
+You respond to assist law enforcement with a 35-year-old male patient who, according to them, is "high as a kite." The patient is anxious, tachycardic, and angry. What condition do you suspect?
 · GHB · Marijuana · **Cocaine** · Alcohol  
 
 **Back**  
@@ -205,8 +205,7 @@ The opioid triad includes all **except**:
 
 ### Q20 🟢  
 **Front**  
-Post-defibrillation, patient has pulse but inadequate breathing. Next?  
-· Ventilate with high-flow O₂ and transport.  
+Your patient is a 66-year-old female who has regained a pulse after a shock with an AED; however, she remains unresponsive and is not breathing adequately. Which of the following should be done next?· **Ventilate with high-flow O₂ and transport.**  
 · Non-rebreather mask only.  
 · Remove AED and assist ventilations without reassessment.  
 · Deliver fourth shock.  
@@ -218,7 +217,7 @@ Post-defibrillation, patient has pulse but inadequate breathing. Next?
 
 ### Q21 🟢  
 **Front**  
-Swelling of lower extremities in cardiac patients is called:  
+Which of the following terms refers to swelling of the lower extremities seen in many cardiac patients?
 · Crackles · Presacral swelling · **Pedal edema** · CHF  
 
 **Back**  
@@ -246,19 +245,19 @@ Which of the following is **NOT** a sign/symptom of stroke?
 
 ---
 
-### Q24 🟢  
+### Q24 🟡  
 **Front**  
-Many causes of dizziness/syncope are related to the:  
-· Lungs · Kidneys · Brain · **Heart**  
+Many factors that cause dizziness and syncope are generally related to the:
+· Lungs · Kidneys · **Brain** · Heart 
 
 **Back**  
-**Answer:** Heart (cardiac output).  
+**Answer:** Brain.  
 
 ---
 
 ### Q25 🟡  
 **Front**  
-Missed dialysis can raise which dangerous electrolyte?  
+A patient with renal disease who is currently on dialysis and missed an appointment may present with dangerously high levels of the electrolyte:
 · Phosphorus · Sodium · Calcium · **Potassium**  
 
 **Back**  
@@ -268,7 +267,7 @@ Missed dialysis can raise which dangerous electrolyte?
 
 ### Q26 🟢  
 **Front**  
-IV medication route is:  
+Choose the correct completion to this statement regarding intravenous (IV) administration: This route is used to administer medication into the body directly or through the bloodstream and is:
 · ALS only when intubated · Given only with transfusions · Typically only prehospital · **Beyond EMT scope**  
 
 **Back**  
@@ -278,7 +277,7 @@ IV medication route is:
 
 ### Q27 🟡  
 **Front**  
-Suicidal 23-year-old female holding razor, large bleed. Which should **not** be done?  
+You are on the scene where a 23-year-old female has attempted suicide by cutting her forearms with a razor. She is sitting in the front yard and has lost a large amount of blood. She is conscious and holding a small razor blade, and she tells you to get away from her. Which of the following should not be done?
 · Call law enforcement · Keep bystanders away · **Take razor by force** · Use PPE  
 
 **Back**  
@@ -288,7 +287,7 @@ Suicidal 23-year-old female holding razor, large bleed. Which should **not** be 
 
 ### Q28 🟢  
 **Front**  
-After assisting with inhaler in emphysema patient, you must document:  
+Your patient is a 59-year-old woman with a history of emphysema. Per protocol, you have assisted the patient in using her medication inhaler. Which of the following must be documented?
 · Chemical name · **Response to medication** · Expiration date · All of the above  
 
 **Back**  
@@ -298,7 +297,7 @@ After assisting with inhaler in emphysema patient, you must document:
 
 ### Q29 🟢  
 **Front**  
-Transplant-immunosuppressant meds lead to high susceptibility to:  
+The medications that transplant patients need to take for the rest of their lives to prevent organ rejection also often lead to high susceptibility of:
 · Ulcers · **Infection** · CHF · Renal failure  
 
 **Back**  
@@ -308,17 +307,20 @@ Transplant-immunosuppressant meds lead to high susceptibility to:
 
 ### Q30 🟡  
 **Front**  
-5-year-old with seal-bark cough, drooling, tripod; priority treatment?  
-· Bag-valve mask O₂ · **Calm child & high-flow O₂, parent holds mask** · Use tongue depressor · High-flow O₂ by mask w/out parent  
+You are on the scene of a 5-year-old patient who is in respiratory distress. The mother states that the patient has been making a "seal bark"-sounding cough for the past 24 hours. The child is very scared. The patient has stable vital signs. He is leaning forward in the tripod position and is drooling profusely. After performing your primary assessment, what is your best treatment option?
+· Provide oxygen by BVM.
+**· Calm the child as much as possible and provide high-concentration oxygen.**
+· Use a tongue depressor to examine the patient's mouth to determine whether the patient has strep throat or croup.
+· Provide high-concentration oxygen and have the parent hold the mask to the patient's face.
 
 **Back**  
-**Answer:** Avoid agitation; blow-by or parent-held mask. Likely epiglottitis.  
+**Answer:** Calm the child as much as possible and provide high-concentration oxygen.
 
 ---
 
 ### Q31 🟢  
 **Front**  
-Snowed-in dialysis patient misses session; which is **not** part of pre-transport care?  
+You are dispatched to a private residence for a sick person. When you arrive, you are told by the patient that due to the snow storm yesterday he missed his scheduled appointment at the dialysis center and is not feeling well. Your assessment does not reveal anything remarkable outside of the fact that he has missed his dialysis. Which of the steps below would not be part of your care?
 · Administer O₂ 15 L/min · BP on arm without fistula · ABC assessment · **Place patient supine**  
 
 **Back**  
@@ -328,7 +330,7 @@ Snowed-in dialysis patient misses session; which is **not** part of pre-transpor
 
 ### Q32 🟢  
 **Front**  
-Site for epinephrine auto-injector:  
+At which of the following sites should the EMT administer an epinephrine auto-injector?
 · Upper arm · **Thigh (lateral)** · Abdomen · Buttocks  
 
 **Back**  
@@ -338,7 +340,7 @@ Site for epinephrine auto-injector:
 
 ### Q33 🟢  
 **Front**  
-Lung collapses without injury/cause:  
+When the lung collapses without injury or any other obvious cause, it is called which of the following?
 · COPD · Spontaneous pulmonary embolism · Pertussis · **Spontaneous pneumothorax**  
 
 **Back**  
@@ -348,7 +350,7 @@ Lung collapses without injury/cause:
 
 ### Q34 🟢  
 **Front**  
-After any medication administration the EMT must:  
+The EMT, after administering any medication, must do which of the following?
 · Wait 5 min and re-dose if needed · Document & reassess · **Reassess, document route-dose-time, report to receiving facility** · Reconsider five rights only  
 
 **Back**  
@@ -358,7 +360,7 @@ After any medication administration the EMT must:
 
 ### Q35 🟢  
 **Front**  
-83-year-old female fever, chills, crackles, confusion. Likely:  
+You have been called to the scene of an 83-year-old woman with a high fever who reports chills and shortness of breath. She is tachypneic and showing signs of pain upon inspiration. You talk with her a bit and she seems confused and unaware of where she is, who she is, or who you are. Based on this presentation, the patient likely has:
 · Tuberculosis · Croup · **Pneumonia** · Pertussis  
 
 **Back**  
@@ -368,7 +370,7 @@ After any medication administration the EMT must:
 
 ### Q36 🟢  
 **Front**  
-Proper disposal of used epinephrine auto-injector:  
+Which of the following is the proper method of disposing of a used epinephrine auto-injector?
 · Bend needle · Leave at scene · Take to ED trash · **Rigid biohazard sharps container**  
 
 **Back**  
@@ -378,17 +380,17 @@ Proper disposal of used epinephrine auto-injector:
 
 ### Q37 🟡  
 **Front**  
-In ambulance, post-defib patient arrests again. Best:  
-· Stop & wait for help · **Analyze rhythm & shock as needed** · Stop, analyze, shock with driver help · CPR only  
+You are transporting a 50-year-old male patient whom you successfully defibrillated at the scene. You are 5 minutes away from the hospital when the patient goes back into cardiac arrest. Which of the following is the BEST course of action?
+· Stop & wait for help · Analyze rhythm & shock as needed · **Stop, analyze, shock with driver help** · CPR only  
 
 **Back**  
-**Answer:** Immediate rhythm analysis and defibrillation.  
+**Answer:** Stop, analyze, shock with driver help.  
 
 ---
 
 ### Q38 🟡  
 **Front**  
-Abdominal-pain questions likely helpful?  
+Which of the following questions may help the EMT assess a patient with abdominal pain?
 · Vaccines · Meds list · Medical problems like diabetes · **All of the above**  
 
 **Back**  
@@ -408,7 +410,7 @@ When restraining a patient, which is **not** a consideration?
 
 ### Q40 🟡  
 **Front**  
-40-year-old female vomiting 2 days, responsive to verbal, cool dry skin, HR 116, RR 24, BP 100/70. Best transport position?  
+Your patient is a 40-year-old female who has been experiencing abdominal pain and vomiting for 2 days. She is now responsive to verbal stimulus; has cool, dry skin; a heart rate of 116; respirations of 24; and a blood pressure of 100/70. Which of the following is the best position for transporting this patient?
 · **Left lateral recumbent with legs bent** · Supine knees bent · Sitting 90° · Sitting 45°  
 
 **Back**  
@@ -418,7 +420,7 @@ When restraining a patient, which is **not** a consideration?
 
 ### Q41 🟡  
 **Front**  
-4-month abdominal pain ended RLQ; vitals mild tachycardia; suspect:  
+The mother of a 5-year-old male tells you that he was vomiting earlier today and complained of moderate pain around his umbilicus. She tells you that just before she called, the pain worsened, and he now has severe pain. When you ask him where the pain is the worst, he points to the right lower abdominal quadrant. His vital signs are P 98, R 26, BP 96/64, and SpO2 is 98% on room air. You should suspect:
 · Inflammatory bowel · Gastroenteritis · Pancreatitis · **Appendicitis**  
 
 **Back**  
@@ -438,7 +440,7 @@ Medical direction consisting of standing orders & protocols is:
 
 ### Q43 🟢  
 **Front**  
-On scene of 65-year-old cardiac arrest, AED shocks; next intervention?  
+You are on the scene of a 65-year-old female patient in cardiac arrest. CPR is in progress and the AED has been applied. The AED advises shock. After defibrillating the patient, what is your next intervention?
 · Recovery position · **Continue CPR** · Insert Combitube · Check pulse  
 
 **Back**  
@@ -458,7 +460,7 @@ OxyContin classified as:
 
 ### Q45 🟢  
 **Front**  
-Which is **not** a step in managing dizziness/syncope?  
+You are on the scene of a 65-year-old female patient in cardiac arrest. CPR is in progress and the AED has been applied. The AED advises shock. After defibrillating the patient, what is your next intervention?
 · Loosen clothing · Lay flat · **Apply cold packs to head** · Administer O₂  
 
 **Back**  
@@ -468,7 +470,7 @@ Which is **not** a step in managing dizziness/syncope?
 
 ### Q46 🟢  
 **Front**  
-14-year-old female suicide attempt, vomit present, agonal. First action?  
+You are called to the scene of a 14-year-old female patient who is unresponsive. Her mother states she has been teased and bullied at school and she suspects that she tried to commit suicide by taking her pain pills. The patient is unresponsive to painful stimuli, with agonal respirations, and has vomited. She has a weak carotid pulse. Your first action is to:
 · OPA · NRB O₂ · BVM O₂ · **Suction airway**  
 
 **Back**  
@@ -478,7 +480,7 @@ Which is **not** a step in managing dizziness/syncope?
 
 ### Q47 🟢  
 **Front**  
-Standardized conscious-stroke test:  
+Which of the following is a standardized test to evaluate a conscious patient for possible stroke?
 · NAP Test · Michigan TIA assessment · Functional Analysis · **Cincinnati Prehospital Stroke Scale**  
 
 **Back**  
@@ -488,7 +490,7 @@ Standardized conscious-stroke test:
 
 ### Q48 🟡  
 **Front**  
-22-yr-old drunk vomiting refuses transport; best action?  
+Your patient is a 22-year-old male who has ingested a large amount of alcohol and is vomiting. He is conscious but uncooperative. He allows you to examine him but refuses transport to the hospital. You have sought assistance from law enforcement on scene. Which of the following is the best action?
 · Witnessed refusal · Stay until vomiting stops · Find relative · **Contact medical direction**  
 
 **Back**  
@@ -498,7 +500,7 @@ Standardized conscious-stroke test:
 
 ### Q49 🟢  
 **Front**  
-Sublingual route means medication:  
+Which of the following describes the sublingual route of medication administration?
 · Injected under skin · Inhaled · Swallowed whole · **Placed under tongue**  
 
 **Back**  
@@ -518,7 +520,7 @@ Which is **not** a side-effect of epinephrine?
 
 ### Q51 🟡  
 **Front**  
-Your 75-year-old female patient has epigastric pain radiating to the right shoulder; she has a previous MI and prescription nitroglycerin. After O₂ and assessment, you should:  
+You respond to a 75-year-old female who is complaining of epigastric pain that feels like heartburn and radiates to the right shoulder. Her vital signs are stable and she has a previous history of myocardial infarction. She has prescription nitroglycerine tablets. An ALS unit is en route. After performing a physical examination and applying oxygen by nasal cannula, you should:
 · Transport supine for shock  
 · **Contact medical control regarding the administration of her nitroglycerin**  
 · Cancel ALS; just gallstones  
@@ -542,7 +544,7 @@ Which patient should have an AED applied?
 
 ### Q53 🟢  
 **Front**  
-Role of health-care workers in newly recognized infectious-disease crises:  
+What role do health care workers play in handling public crises related to newly recognized infectious diseases?
 · Report directly to public media  
 · **Implement CDC & public-health guidance to reduce spread**  
 · Determine the microbe in local lab  
@@ -554,7 +556,7 @@ Role of health-care workers in newly recognized infectious-disease crises:
 
 ### Q54 🟢  
 **Front**  
-17-year-old asthmatic with lower-abdominal pain; clear lungs, vitals stable. Most appropriate next step?  
+Your patient is a 17-year-old with a history of asthma. She is complaining of pain in her lower abdomen. Assessment reveals that her breath sounds are clear and equal, she has a respiratory rate of 28 breaths per minute, a heart rate of 96 beats per minute, and a blood pressure of 112/74 mmHg. Which of the following is the most appropriate next step?
 · Paper-bag rebreathing · Assist with inhaler · **High-concentration oxygen** · Insert NPA  
 
 **Back**  
@@ -563,7 +565,7 @@ Role of health-care workers in newly recognized infectious-disease crises:
 
 ### Q55 🟡  
 **Front**  
-When assessing a conscious patient for possible stroke using the Cincinnati Prehospital Stroke Scale, test:  
+When assessing a conscious patient for a possible stroke using the Cincinnati Prehospital Stroke Scale, which of the following three functions should be tested by the EMT?
 · Facial muscle control · Ability to speak · Arm drift for 10 s · **All three above**  
 
 **Back**  
@@ -581,8 +583,8 @@ Which is **not** a symptom of pulmonary embolus?
 
 ### Q57 🟢  
 **Front**  
-Abuser of “uppers” will likely show:  
-· Excessive talkativeness, dilated pupils, dry mouth  
+A patient who has abused "uppers" will display which of the following signs and symptoms?
+**· Excessive talkativeness, dilated pupils, dry mouth**
 · Constricted pupils, blurred vision  
 · Dilated pupils and salivation  
 · Slurred speech & frequent urination  
@@ -593,7 +595,7 @@ Abuser of “uppers” will likely show:
 
 ### Q58 🟢  
 **Front**  
-Mechanical CPR devices are used mainly to provide:  
+Mechanical CPR devices are used by EMS agencies in order to provide:
 · 100 % success · Better care w/ less training · Faster scene times · **Consistent high-quality compressions**  
 
 **Back**  
@@ -602,7 +604,7 @@ Mechanical CPR devices are used mainly to provide:
 
 ### Q59 🟢  
 **Front**  
-After activating an EpiPen®, hold it against the thigh for:  
+After activating the EpiPen® auto-injector, how long should it be held in place before removing it from the patient's thigh?
 · 30 s · 1 min · Remove immediately · **10 s**  
 
 **Back**  
@@ -611,7 +613,7 @@ After activating an EpiPen®, hold it against the thigh for:
 
 ### Q60 🟢  
 **Front**  
-Renal failure occurs when the:  
+One of the more serious diseases of the body is renal failure. Renal failure occurs when the:
 · Adrenal glands stop · **Kidneys fail to function** · Pancreas stops · Liver fails  
 
 **Back**  
@@ -620,7 +622,7 @@ Renal failure occurs when the:
 
 ### Q61 🟡  
 **Front**  
-Positional asphyxia is:  
+It is important that, as an EMS provider, you avoid creating a situation where positional asphyxia could occur. Which of the following is positional asphyxia?
 · Fetal birth defect · **Respiratory arrest from body position restricting breathing**  
 · Position seated when approached · Post-taser posture  
 
@@ -630,7 +632,7 @@ Positional asphyxia is:
 
 ### Q62 🟢  
 **Front**  
-During infectious-disease outbreaks, EMTs must primarily:  
+Which of the following is the most important thing you can do when treating patients during a public crisis related to a newly recognized infectious disease?
 · Share prevalence info widely · **Follow CDC/local-health recommendations** · Tell patients not to worry · Collect data only  
 
 **Back**  
@@ -639,7 +641,7 @@ During infectious-disease outbreaks, EMTs must primarily:
 
 ### Q63 🟡  
 **Front**  
-60-year-old chest-pain patient on Cialis®. Which orders request?  
+You are on the scene at a fancy hotel room for a 60-year-old male patient who calls 911 at 10 p.m. for chest pains. He states he was about to go to bed when he suddenly had chest pain that would not go away. He rates his pain as a 7 out of 10 and is diaphoretic. His vital signs are stable, and he takes medications for hypertension, high cholesterol, and erectile dysfunction. The patient is allergic to morphine. After placing the patient on oxygen, you contact medical control and request:
 · Aspirin + nitro · **Aspirin only (nitro contraindicated w/ ED drug)**  
 · Nitro only · No orders  
 
@@ -649,7 +651,7 @@ During infectious-disease outbreaks, EMTs must primarily:
 
 ### Q64 🟡  
 **Front**  
-Nursing-home patient vomits “coffee grounds”; BP 90/40. Transport position?  
+You are called to a nursing home for an 85-year-old patient complaining of abdominal pain. The patient has a history of dementia and cannot describe the pain to you. The nurse states the patient has been vomiting for about an hour, and the vomit looks like dark coffee grounds. His blood pressure is 90/40, pulse 100, and respiratory rate of 24. In what position should you transport the patient?
 · Trendelenburg · **Left lateral recumbent** · Supine · Supine w/ knees bent  
 
 **Back**  
@@ -658,7 +660,7 @@ Nursing-home patient vomits “coffee grounds”; BP 90/40. Transport position?
 
 ### Q65 🟢  
 **Front**  
-Most important treatment for inhaled poison:  
+What is the most important treatment for a patient who has inhaled a poison?
 · Activated charcoal · Epinephrine · **High-concentration oxygen** · Antidote  
 
 **Back**  
@@ -667,7 +669,7 @@ Most important treatment for inhaled poison:
 
 ### Q66 🟡  
 **Front**  
-24-y-o female LLQ pain; most lethal possible cause?  
+You are examining a 24-year-old female patient with lower quadrant abdominal pain. What is the most lethal possibility?
 · Menses irregularity · Cholecystitis · **Ectopic pregnancy** · PID  
 
 **Back**  
@@ -676,7 +678,7 @@ Most important treatment for inhaled poison:
 
 ### Q67 🟢  
 **Front**  
-Dialysis patients often have which two chronic diseases?  
+Two chronic medical conditions that dialysis patients frequently have in addition to kidney failure are ________ and ________.
 · High cholesterol & aneurysm · **Hypertension & diabetes** · DVT & COPD · Heart failure & stroke  
 
 **Back**  
@@ -685,7 +687,7 @@ Dialysis patients often have which two chronic diseases?
 
 ### Q68 🟢  
 **Front**  
-Primary effect of a prescribed inhaler for SOB:  
+What is the primary effect on the body when an EMT assists a patient with a prescribed inhaler if the patient is short of breath?
 · Decrease HR · **Bronchodilation** · Diaphragm contraction · Dissolve mucus  
 
 **Back**  
@@ -694,7 +696,7 @@ Primary effect of a prescribed inhaler for SOB:
 
 ### Q69 🟡  
 **Front**  
-59-y-o female sudden slurred speech & right-side weakness. Appropriate measure?  
+Your patient is a 59-year-old female with a sudden onset of slurred speech and weakness on her right side. Which of the following measures is appropriate?
 · Sensation pinprick test · Keep supine · Oral glucose · **Immediate transport to stroke center**  
 
 **Back**  
@@ -703,7 +705,7 @@ Primary effect of a prescribed inhaler for SOB:
 
 ### Q70 🟢  
 **Front**  
-Portion of heart muscle dies from lack of O₂:  
+Which of the following is the result of a portion of the heart muscle dying due to a lack of oxygen?
 · Heart failure · **Myocardial infarction** · Cardiac arrest · Angina pectoris  
 
 **Back**  
@@ -712,7 +714,7 @@ Portion of heart muscle dies from lack of O₂:
 
 ### Q71 🟢  
 **Front**  
-Beneficial action of beta-blocker:  
+Which of the following is the beneficial action of a beta blocker medication?
 · Stronger contraction · ↑O₂ demand · **Slows heart rate** · Vasoconstriction  
 
 **Back**  
@@ -721,7 +723,7 @@ Beneficial action of beta-blocker:
 
 ### Q72 🟢  
 **Front**  
-65-y-o arrest; AED says “no shock advised.” Next?  
+You are on the scene of a 65-year-old female patient in cardiac arrest. CPR is in progress and the AED has been applied. The AED does not advise shock. What is your next intervention?
 · Stop CPR · Insert airway · **Continue CPR** · Replace AED  
 
 **Back**  
@@ -730,7 +732,7 @@ Beneficial action of beta-blocker:
 
 ### Q73 🟡  
 **Front**  
-Dialysis patient re-arrests and AED shocks ineffective. Best approach?  
+You are dispatched to an unconscious hemodialysis patient. On arrival to the dialysis clinic, the patient is unresponsive, apneic, and pulseless. You secure the ABCs, begin ventilation, and initiate chest compressions. However, the patient's cardiac arrest rhythm is continuously unresponsive to defibrillations with your AED. The best approach is to:
 · Call to terminate code · Continue defibs only · **Begin transport & seek ALS intercept** · No-electricity code  
 
 **Back**  
@@ -748,7 +750,7 @@ Which statement about angina pectoris is true?
 
 ### Q75 🟢  
 **Front**  
-22-y-o male unresponsive, constricted pupils, slow respirations. Likely substance?  
+Your patient is a 23-year-old male who is unresponsive in the restroom of a bar. His respirations are slow and shallow, he has a heart rate of 50 beats per minute, he is sweating profusely, and he has constricted pupils. Which of the following substances is most likely responsible for the patient's condition?
 · PCP · Ecstasy · LSD · **Heroin (opioid)**  
 
 **Back**  
@@ -757,7 +759,7 @@ Which statement about angina pectoris is true?
 
 ### Q76 🟢  
 **Front**  
-Treating acute abdominal pain:  
+When treating a patient with acute abdominal pain, you should do which of the following?
 · Antacids · **Have patient lie still & position of comfort** · Milk to coat stomach · Sips of water  
 
 **Back**  
@@ -766,7 +768,7 @@ Treating acute abdominal pain:
 
 ### Q77 🟢  
 **Front**  
-After TIA scenario patient now normal; likely occurrence?  
+You have arrived on the scene of a call for a possible stroke. On your arrival, the patient denies signs and symptoms, is alert and oriented, and moves all extremities well. Her husband states that before you arrived the patient could not move her right arm and the left side of her face seemed to be "slack." Which of the following has most likely occurred?
 · TIA vs stroke? **Transient ischemic attack** resolved.  
 
 **Back**  
@@ -775,7 +777,7 @@ After TIA scenario patient now normal; likely occurrence?
 
 ### Q78 🟢  
 **Front**  
-10-month-old soft umbilical bulge after cough—suspect:  
+A 10-month-old female has a two-inch soft bulge under the skin of her belly button. Her father tells you that the bulge appeared after she was coughing. She does not cry when you palpate her abdomen. You should suspect a(n):
 · Ascites · **Hernia** · Diaphragm rupture · Tumor  
 
 **Back**  
@@ -784,7 +786,7 @@ After TIA scenario patient now normal; likely occurrence?
 
 ### Q79 🟢  
 **Front**  
-Device that blows continuous pressure to prevent alveolar collapse:  
+A(n) ________ device works by blowing oxygen or air continuously at a noninvasive pressure to prevent a patient's alveoli from collapsing.
 · **CPAP** · NRB mask · OPQRST · COPD  
 
 **Back**  
@@ -794,7 +796,7 @@ Device that blows continuous pressure to prevent alveolar collapse:
 ### Q80 🟡  
 **Front**  
 Which is **not** a result of mechanical heart malfunction?  
-· Cardiac arrest · Dysrhythmia · Pulmonary edema · Cardiogenic shock  
+· Cardiac arrest · **Dysrhythmia** · Pulmonary edema · Cardiogenic shock  
 
 **Back**  
 **Answer:** Dysrhythmia (electrical, not mechanical).  
@@ -802,7 +804,7 @@ Which is **not** a result of mechanical heart malfunction?
 
 ### Q81 🟢  
 **Front**  
-Complete coronary occlusion; chest pain response to meds?  
+You are treating a male patient with chest pain caused by the complete occlusion of one of the coronary arteries. What would you most likely expect with this patient?
 · Relieved by aspirin · Relieved by nitro · Goes away with O₂ · **Not alleviated by any above**  
 
 **Back**  
@@ -811,7 +813,7 @@ Complete coronary occlusion; chest pain response to meds?
 
 ### Q82 🟢  
 **Front**  
-Cardiac arrest in children differs from adults because:  
+In which of the following ways does cardiac arrest in children differ from cardiac arrest in adults?
 · V-fib common in kids · **Often due to respiratory failure** · Adults arrest from respiratory failure · V-fib uncommon in adults  
 
 **Back**  
@@ -820,7 +822,7 @@ Cardiac arrest in children differs from adults because:
 
 ### Q83 🟢  
 **Front**  
-9-y-o episodes of blank staring & no recall—type of seizure?  
+You are called to a school for a 9-year-old male who was acting strangely. His teacher tells you that during class, he had several episodes of sitting at his desk staring into space and briefly not responding. He answers your questions correctly and tells you he does not remember the episodes. What type of seizure should you suspect?
 · **Absence (petit mal)** · Psychomotor · Temporal lobe · Focal motor  
 
 **Back**  
@@ -842,12 +844,12 @@ Which is **not** acceptable in restraining a patient?
 · Leather 4-point restraints · Surgical mask to prevent spitting · Face-up positioning · **Hog-tying**  
 
 **Back**  
-**Answer:** Hog-tying—danger of positional asphyxia. **Remove/Red-flag**  
+**Answer:** Hog-tying—danger of positional asphyxia. 
 ---
 
 ### Q86 🟢  
 **Front**  
-Infection of lungs caused by bacteria/virus/fungi:  
+What condition is when there is an infection in one or both lungs caused by bacteria, viruses, or fungi?
 · Asthma · **Pneumonia** · Pulmonary edema · PE  
 
 **Back**  
@@ -856,7 +858,7 @@ Infection of lungs caused by bacteria/virus/fungi:
 
 ### Q87 🟢  
 **Front**  
-HIV-positive burn patient: proper EMT action?  
+You have been called to the scene of a single vehicle crash. The victim lost control of the vehicle on an icy road and hit a tree. He shows signs of facial injury with bleeding, but is conscious and aware of his surroundings. Before you begin providing care to him, he tells you that he has HIV and is currently taking medication that has helped suppress his viral load. Based on this information, which of the following actions should you take?
 · Ask medical control · Provide care no precautions · **Standard Precautions** · Avoid contact  
 
 **Back**  
@@ -865,8 +867,8 @@ HIV-positive burn patient: proper EMT action?
 
 ### Q88 🟡  
 **Front**  
-Which statement about geriatric abdominal pain is false?  
-· Serious causes are rare  
+Which of the following is not true concerning abdominal pain in geriatric patients?
+· **Serious causes are rare** 
 · ↓Pain perception  
 · Difficulty describing pain  
 · Meds may mask shock  
@@ -877,7 +879,7 @@ Which statement about geriatric abdominal pain is false?
 
 ### Q89 🟢  
 **Front**  
-Photophobia, nausea, non-blanching rash in student; neck-flexion test for:  
+You have been called to the scene of a 19-year-old college student who is at his parents' house for the weekend. The patient complains of sensitivity to light and nausea. He also has a headache and is covered in what appears to be a red rash that does not blanch when pressed. Your partner asks the patient to sit up straight and then bring his chin down to his chest. For which of the following diseases is your partner assessing this patient?
 · Shingles · **Meningitis** · TB · Hep C  
 
 **Back**  
@@ -886,25 +888,25 @@ Photophobia, nausea, non-blanching rash in student; neck-flexion test for:
 
 ### Q90 🟡  
 **Front**  
-Post-exposure to Hep B splashed in eye; which action **would not** lower risk?  
-· Immune globulin · Washing eye · Antivirals · **Vaccination after exposure**  
+While caring for a patient known to have hepatitis B, you are splattered across the face with blood. You were not wearing eye protection at the time and some of the blood got onto your eyeball. You have never received your hepatitis B vaccination. Which of the following postexposure actions would not lower your risk of developing hepatitis B?
+· Immune globulin · Washing eye · **Antivirals** · Vaccination after exposure  
 
 **Back**  
-**Answer:** Vaccine series takes weeks—least immediate benefit.  
+**Answer:** Antivirals.  
 ---
 
 ### Q91 🟢  
 **Front**  
 Mumps spread primarily through:  
-· Blood & saliva · **Airborne droplets & direct contact** · Saliva only · All body fluids  
+· Blood & saliva · Airborne droplets & direct contact · **Saliva and droplets** · All body fluids  
 
 **Back**  
-**Answer:** Respiratory droplets/contact.  
+**Answer:** Saliva and droplets.  
 ---
 
 ### Q92 🟢  
 **Front**  
-First EMT arrives; high-quality CPR already 5 min. Next:  
+You are the first on the scene of a 72-year-old patient in cardiac arrest. You have your medical supply kit, oxygen, and an AED. At least 4 to 5 minutes of high-quality CPR has been provided by the police officer who arrived before you. You have confirmed an open airway, apnea, and pulselessness. Which of the following should you do next?
 · Perform BVM ventilations 30 s · **Apply AED pads & shock as advised** · One-rescuer CPR · Call medical control  
 
 **Back**  
@@ -913,7 +915,7 @@ First EMT arrives; high-quality CPR already 5 min. Next:
 
 ### Q93 🟢  
 **Front**  
-Fidgeting psych patient; first consideration?  
+Your patient is a 37-year-old male sitting on the kitchen floor. His wife is attempting to talk with him, but he does not look at her or answer. He is fidgeting and has apparently thrown some dishes against the wall. What should be your first consideration?
 · Check pulse · Ask wife outside · Speak privately · **Maintain safe distance**  
 
 **Back**  
@@ -931,7 +933,7 @@ Most-frequently transplanted organ:
 
 ### Q95 🟢  
 **Front**  
-Epinephrine auto-injector documentation must include:  
+When documenting the administration of an epinephrine auto-injector, which of the following should be included?
 · Time · Site · Patient response · **All of the above**  
 
 **Back**  
@@ -940,7 +942,7 @@ Epinephrine auto-injector documentation must include:
 
 ### Q96 🟢  
 **Front**  
-10-month-old bee sting, localized swelling only; you should:  
+A 10-month-old male is crying after he was stung by a bee. The skin around the site is reddened, and there is localized swelling. His lungs are clear to auscultation, and he is interacting with you appropriately. His vital signs are P 120, R 28, BP 90/58, and SpO2 is 98% on room air. You should:
 · Pediatric epi · Assist ventilations · **Monitor & transport** · Administer O₂  
 
 **Back**  
@@ -949,7 +951,7 @@ Epinephrine auto-injector documentation must include:
 
 ### Q97 🟢  
 **Front**  
-Gamma-hydroxybutyrate (GHB) is a:  
+Gamma hydroxybutyrate (GHB) is an example of which of the following types of drugs?
 · Cannabis · Volatile spirit · **Depressant** · Stimulant  
 
 **Back**  
@@ -958,7 +960,7 @@ Gamma-hydroxybutyrate (GHB) is a:
 
 ### Q98 🟢  
 **Front**  
-Weakened arterial wall ballooning is called an:  
+A weakened area of an artery that balloons out and may rupture, causing catastrophic bleeding, is called:
 · Asystole · **Aneurysm** · Angina · Angioplasty  
 
 **Back**  
@@ -967,7 +969,7 @@ Weakened arterial wall ballooning is called an:
 
 ### Q99 🟡  
 **Front**  
-EMT action to optimize thrombolytic therapy for stroke patient:  
+Many stroke patients are candidates for thrombolytic drugs. One of the most important things that an EMT can do to optimize the care of a stroke patient who is a candidate for the drugs is:
 · Closest hospital regardless of capability  
 · **Determine exact symptom onset time**  
 · Physical exam thoroughness  
