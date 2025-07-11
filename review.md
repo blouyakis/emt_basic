@@ -96,6 +96,15 @@ Mumps spread primarily through:
 
 ## Module 4:
 
+>This question is not clear to me. I would choose to immobilize the patient on a long spine board because there is a spinal injury. To assist in breathing, we would elevate the head of the long board 30 degrees. Placing a patient with a spinal injury on a cot is contraindicated because this does not immobilize the spine. 
 
+```
+### Q34 🟡  
+**Front**  
+A 79-year-old male lost his balance and fell, landing on his back. He complains of pain in his upper back, and you palpate a deformity to T-6. He has a history of CHF and tells you he needs to sit up so he can breathe. He is on home oxygen by nasal cannula, 3 L/minute. He is not able to feel below his xiphoid process or move his legs. You should apply a cervical collar and:
+• Supine stretcher & NRB • Supine stretcher O₂ 15 L • Long-backboard immobilization • **Semi-Fowler on stretcher**  
 
+**Back**  
+**Answer:** Semi-Fowler on stretcher
+```
 

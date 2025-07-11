@@ -5,7 +5,7 @@ Color key 🟢 Basic 🟡 Average 🟠 Difficult 🟥 Remove
 
 ### Q1 🟡  
 **Front**  
-A 60-year-old male reports a sexual assault by staff in his residence. He denies bleeding, appears frightened, and does not want to go to the hospital. What should you do?  
+A 60-year-old male tells you that he was sexually assaulted by a staff member where he lives. He denies any bleeding, and you do not see any blood on his undergarments. He appears frightened and tells you he doesn't want to go to the hospital. You should:
 • Tell him everything will be fine and transport.  
 • Ask if a friend can stay home with him.  
 • **Encourage him to go to the hospital for evaluation.**  
@@ -18,7 +18,7 @@ A 60-year-old male reports a sexual assault by staff in his residence. He denies
 
 ### Q2 🟢  
 **Front**  
-58-year-old female twisted ankle; foot severely angulated with open wound and visible bone, distal skin warm & pink. Management?  
+A 58-year-old female complains of pain after she twisted her ankle while running. Her foot is severely angled, and her sock is bloody. When you remove her sock, you observe an open wound and bone. The skin of her foot is warm and pink. You should: 
 • **Immobilize foot in the position found.**  
 • Wrap with elastic dressing.  
 • Apply an air splint.  
@@ -44,7 +44,7 @@ How does compartment syndrome develop after lower-leg injury?
 
 ### Q4 🟡  
 **Front**  
-25-year-old female kicked mid-lower abdomen by horse; abdominal pain + vaginal bleeding. Likeliest source of bleeding?  
+A 25-year-old female complains of abdominal pain and vaginal bleeding after she was kicked midline in her lower abdomen by a horse. You should suspect her bleeding is from an injury to her:
 • Bladder • Colon • Sacrum • **Cervix**  
 
 **Back**  
@@ -54,7 +54,7 @@ How does compartment syndrome develop after lower-leg injury?
 
 ### Q5 🟢  
 **Front**  
-16-year-old female with 6-ft pole impaled in right chest (5th ICS, 1 in lateral to MCL). Best management?  
+A 16-year-old female complains of chest pain. She has a six foot long pole impaled in her fifth intercostal space, one inch lateral to the midclavicular line on the right side of her chest. You should:
 • **Cut pole ~4 in from chest and secure/stabilize.**  
 • Stabilize whole pole & place on right side.  
 • Remove pole & apply occlusive dressing.  
@@ -67,7 +67,7 @@ How does compartment syndrome develop after lower-leg injury?
 
 ### Q6 🟡  
 **Front**  
-78-year-old female bicycle crash; transiently awake then unresponsive. Suspect:  
+A 78-year-old female fell off her bicycle and struck her head. She tells you she does not remember the crash. Bystanders tell you that she was unresponsive before your arrival. While you are assessing her, she becomes unresponsive. You should suspect a(n):
 • Vasovagal episode • **Epidural bleed** • Subdural bleed • Intracerebral bleed  
 
 **Back**  
@@ -77,7 +77,7 @@ How does compartment syndrome develop after lower-leg injury?
 
 ### Q7 🟢  
 **Front**  
-36-year-old thrown 8 ft, left leg externally rotated, iliac crests unstable. Likely injury?  
+A 36-year-old female was struck by a car and thrown eight feet. She complains of pain in her left hip, and her leg is externally rotated. When you press on her iliac crests, she complains of increased pain, and you feel instability. You should suspect a(n):
 • Femur fracture • Posterior femur dislocation • Anterior femur dislocation • **Pelvic fracture**  
 
 **Back**  
@@ -87,17 +87,17 @@ How does compartment syndrome develop after lower-leg injury?
 
 ### Q8 🟢  
 **Front**  
-Unresponsive 78-year-old fall; snoring respirations + uncontrolled scalp bleed. First action?  
-• Apply C-collar • Direct pressure • **Suction airway** • Insert OPA  
+An unresponsive 78-year-old male fell down a flight of stairs. You hear snoring respirations and see uncontrolled bleeding from a laceration on his head. You should first:
+• Apply C-collar • **Direct pressure** • Suction airway • Insert OPA  
 
 **Back**  
-**Answer:** Airway takes priority; clear/suction before adjuncts.  
+**Answer:** Apply direct pressure to the laceration 
 
 ---
 
 ### Q9 🟢  
 **Front**  
-Unresponsive 61-year-old female train trauma, below-knee amputation, minimal bleed. While holding spine you should first:  
+An unresponsive 61-year-old female was run over by a train at low speed. Her skin is pale and cool. She has a below the knee amputation of her left leg. You observe minor bleeding from the injury. While stabilizing her spine, you should:
 • Assess vital signs  
 • **Assess breathing & circulation**  
 • High tourniquet on thigh  
@@ -110,7 +110,7 @@ Unresponsive 61-year-old female train trauma, below-knee amputation, minimal ble
 
 ### Q10 🟢  
 **Front**  
-Cushing’s triad for ↑ ICP shows:  
+Which of the following describes how the body responds to increased intracranial pressure?
 • Irregular pulse; ↓ BP • **↑ BP, ↓ pulse** • ↑ pulse, ↓ resp • Irregular resp, ↑ pulse  
 
 **Back**  
@@ -120,7 +120,7 @@ Cushing’s triad for ↑ ICP shows:
 
 ### Q11 🟡  
 **Front**  
-20-year-old male shot LUQ; pulsating mid-abdominal mass. Immediate action?  
+An unresponsive 20-year-old male was shot in the left upper abdominal quadrant. His skin is pale and diaphoretic. His airway is open, and his lungs are clear to auscultation. You palpate a pulsating mass midline between his xiphoid process and umbilicus. You should immediately:
 • C-collar & long board • Assess vitals • Apply dry dressing • **Rapid transport**  
 
 **Back**  
@@ -130,7 +130,7 @@ Cushing’s triad for ↑ ICP shows:
 
 ### Q12 🟢  
 **Front**  
-20-year-old neck GSW, life-threat bleed. After hand pressure you should:  
+A 20-year-old male was shot in the neck. You observe life-threatening bleeding from the wound. After you apply direct pressure with your gloved hand, you should:
 • Circumferential compression dressing  
 • Apply C-collar  
 • **Apply occlusive dressing**  
@@ -143,7 +143,7 @@ Cushing’s triad for ↑ ICP shows:
 
 ### Q13 🟢  
 **Front**  
-5-year-old wearing only lap belt, abdominal “seat-belt sign,” pale, cap-refill 3 s. After O₂, most important?  
+A 5-year-old female who was only wearing a lap belt when she was involved in a car crash complains of abdominal pain. Her skin is pale and cool. The only injury you observe is a reddened three-inch wide mark across her abdomen at the level of her umbilicus. Her vital signs are P 130, R 34, BP 98/80, and SpO2 is unobtainable. Her capillary refill is three seconds. You should administer oxygen and:
 • Trendelenburg • Position of comfort • Pelvic binder • **Keep her warm**  
 
 **Back**  
@@ -153,7 +153,7 @@ Cushing’s triad for ↑ ICP shows:
 
 ### Q14 🟢  
 **Front**  
-Protruding pink “sausage-like” tissue from abd wound =  
+A 21-year-old female tells you she was stabbed by a piece of metal in her abdomen 15 minutes ago. When you examine the area, you observe minimal bleeding and pink sausage-like tissue protruding from the opening in her left lower abdominal quadrant. You should suspect a(n):
 • Tumor • Impaled object • **Evisceration** • Uterine inversion  
 
 **Back**  
@@ -163,7 +163,7 @@ Protruding pink “sausage-like” tissue from abd wound =
 
 ### Q15 🟢  
 **Front**  
-11-year-old fall; pelvis crepitus; pale upper, pink lower skin. Suspected torn vessels in:  
+An unresponsive 11-year-old female jumped from a second-story window and landed on an uneven surface. Her skin is pale, cool, and you do not observe any bruising. She has a capillary refill of four seconds. Her left leg is shortened. When you compare her femurs, they are the same. Her abdomen is soft to palpation, and you feel crepitus when you assess her pelvis. You should suspect torn blood vessels in her:
 • Spleen • Liver • **Pelvis** • Thigh  
 
 **Back**  
@@ -173,11 +173,11 @@ Protruding pink “sausage-like” tissue from abd wound =
 
 ### Q16 🟡  
 **Front**  
-Which MVC patient is highest priority?  
-A. 28 M restrained, abdominal pain, vitals 106/18, 88/62  
-B. 19 M rollover, vitals 98/16, 114/72  
-C. 32 F ejected, vitals 104/18, 116/92  
-D. 42 F passenger died, vitals 88/20, 142/90  
+Which of the following patients involved in a car crash has the most severe findings?
+A. A 28-year-old male complains of abdominal pain, he was the restrained driver, his vital signs are P 106, R 18, and BP 88/62
+B. A 19-year-old male complains of head pain, the vehicle rolled over twice, his vital signs are P 98, R 16, and BP 114/72  
+C. A 32-year-old female complains of head and chest pain, she was ejected from the vehicle, her vital signs are P 104, R 18, and BP 116/92
+D. A 42-year-old female complains of chest pain, another passenger in the vehicle died, her vital signs are P 88, R 20, and BP 142/90
 
 **Back**  
 **Answer:** **A**—hypotension (88/62) indicates shock.  
@@ -186,7 +186,7 @@ D. 42 F passenger died, vitals 88/20, 142/90
 
 ### Q17 🟢  
 **Front**  
-Camp-fire burn: lower leg red & blistered; foot dry, white, leathery without pain. Foot burn class?  
+A 43-year-old female who stepped into a campfire complains of pain in her lower leg. The skin on her lower leg is reddened and blistered. The skin on her foot has areas of blackened skin and other areas that are dry, white, and leathery. She denies pain to this area when you cover it with a dressing. What type of burn should you suspect she has to her foot?
 • Second-degree • **Full-thickness** • First-degree • Partial-thickness  
 
 **Back**  
@@ -196,7 +196,7 @@ Camp-fire burn: lower leg red & blistered; foot dry, white, leathery without pai
 
 ### Q18 🟢  
 **Front**  
-Stab RUQ with minimal bleed; likely injured organ?  
+A 21-year-old female was stabbed in her right upper abdominal quadrant with a pencil. She complains of pain to the area. Her abdomen is tender to palpation, and you observe blood trickling from the wound. Her vital signs are P 120, R 18, BP 108/86, and SpO2 is 94% on room air. What organ should you suspect was injured?
 • Stomach • Kidney • **Liver** • Spleen  
 
 **Back**  
@@ -206,7 +206,7 @@ Stab RUQ with minimal bleed; likely injured organ?
 
 ### Q19 🟢  
 **Front**  
-7-year-old pencil impaled through cheek into palate, minimal bleed, breathing ok. Management?  
+You are dispatched to the local elementary school for an injured student. Upon arrival, you find that two 7-year-olds got into a fight and one of them jabbed a pencil in the other's cheek. The pencil is still sticking out of the child's cheek. When you examine the patient, you cannot see the end of the pencil that went through the cheek, as it appears to be stuck in the palate. There is not significant bleeding, and the child is not having any difficulty breathing. The child is very upset and wants you to pull the pencil out. What should you do?
 • Remove & bandage • Child removes object • **Stabilize object; do not remove** • Call parents for instructions  
 
 **Back**  
@@ -216,7 +216,7 @@ Stab RUQ with minimal bleed; likely injured organ?
 
 ### Q20 🟡  
 **Front**  
-Unresponsive 43-year-old assault; segment of chest wall moves opposite; respirations shallow. After partner stabilizes head, next?  
+An unresponsive 43-year-old female was struck in the chest with a metal pipe during an assault. You observe a portion of her left chest wall moves outward when she exhales. She is taking rapid, shallow breaths. While your partner stabilizes her head, you should next:
 • O₂ NRB • Secure long backboard • **Assist ventilation with BVM** • Check vitals  
 
 **Back**  
@@ -226,7 +226,7 @@ Unresponsive 43-year-old assault; segment of chest wall moves opposite; respirat
 
 ### Q21 🟢  
 **Front**  
-Why does skin become pale/cool in compensated hemorrhagic shock?  
+During compensated hemorrhagic shock, why can the skin become pale and cool?
 • ↓ Peripheral resistance • **Reduced blood flow to skin** • ↓ Anaerobic metabolism • ↓ Cardiac output  
 
 **Back**  
@@ -236,7 +236,7 @@ Why does skin become pale/cool in compensated hemorrhagic shock?
 
 ### Q22 🟢  
 **Front**  
-Irregular cut across skin exposing fat & muscle =  
+A 73-year-old female injured her back when she scraped against a sharp piece of metal. She has an irregular cut across her skin that exposes fat and muscle tissue. You should suspect a(n):
 • Incision • Abrasion • Avulsion • **Laceration**  
 
 **Back**  
@@ -246,7 +246,7 @@ Irregular cut across skin exposing fat & muscle =
 
 ### Q23 🟡  
 **Front**  
-Which statement is **false** for electrical injury?  
+Which statement is **false** regarding an electrical injury?  
 • AED/CPR may be needed.  
 • Treatment of source burn same as thermal.  
 • Patients with minor burns may still be critical.  
@@ -259,7 +259,7 @@ Which statement is **false** for electrical injury?
 
 ### Q24 🟡  
 **Front**  
-47-year-old unrestrained driver; knee-to-dash; right leg flexed, hip rotated inward. Suspect:  
+A 47-year-old female complains of right hip pain. She was the unrestrained driver of a car that crashed into a tree. Her airbag deployed, but there is damage to the dash where her right knee struck it. As you move her onto the long backboard, you observe that her right leg is rotated inward, her hip is flexed, and her knee is bent. You should suspect a(n):
 • Anterior hip dislocation • **Posterior hip dislocation** • Open-book pelvis • Mid-shaft femur  
 
 **Back**  
@@ -269,17 +269,17 @@ Which statement is **false** for electrical injury?
 
 ### Q25 🟢  
 **Front**  
-52-year-old female thigh laceration; dark red **oozing** blood. Suspect type:  
-• Arterial • Minor • **Capillary bleeding** • Massive hemorrhage  
+A confused 52-year-old female has an eight-inch full thickness laceration diagonally across her right thigh. Her skin is pale and diaphoretic, and you observe a steady flow of dark red blood oozing from the wound onto the carpeted floor. The carpet under her leg is saturated. You should suspect:
+• Arterial • Minor • Capillary bleeding • **Massive hemorrhage**  
 
 **Back**  
-**Answer:** Slow even ooze → capillary.  
+**Answer:** Massive hemorrhage due to significant blood on carpet
 
 ---
 
 ### Q26 🟢  
 **Front**  
-Unresponsive 2-year-old electrical/thermal burns, slow shallow breaths. First:  
+An unresponsive 2-year-old female has burnt skin on her left hand and left knee. Her father tells you he heard a loud noise and found her this way. She has irregular, slow, shallow respirations and a rapid carotid pulse. You should first:
 • Assess vitals • **Assist ventilation** • O₂ nasal cannula • O₂ NRB  
 
 **Back**  
@@ -289,7 +289,7 @@ Unresponsive 2-year-old electrical/thermal burns, slow shallow breaths. First:
 
 ### Q27 🟡  
 **Front**  
-51-year-old with 6-ft metal bar through forearm, minor bleed. Best:  
+A 51-year-old male has a quarter-inch diameter metal bar that is six feet long impaled in his forearm. There is minor bleeding around the bar. He can move his fingers with a slight increase in his pain. You should:
 • Tourniquet & remove • **Cut bar while stabilizing** • Pull out & pack • Transport with full-length bar  
 
 **Back**  
@@ -299,7 +299,7 @@ Unresponsive 2-year-old electrical/thermal burns, slow shallow breaths. First:
 
 ### Q28 🟢  
 **Front**  
-62-year-old stepped in hole, swelling near heel, can’t plantar-flex. Management?  
+A 62-year-old female complains of left calf pain after she stepped into a hole while walking. She tells you she cannot walk or bend her foot down. You observe swelling near her heel. You should:
 • **Splint foot & lower leg** • Elastic wrap • Hot pack • Test ambulation  
 
 **Back**  
@@ -309,7 +309,7 @@ Unresponsive 2-year-old electrical/thermal burns, slow shallow breaths. First:
 
 ### Q29 🟢  
 **Front**  
-3-month-old abdominal evisceration. You should:  
+A 3-month-old female was cut across her abdomen by a piece of broken glass. You observe bowel contents protruding from the wound. You should:
 • Elastic wrap • **Cover with moist sterile dressing** • Dry dressing • Rinse & replace organs  
 
 **Back**  
@@ -319,7 +319,7 @@ Unresponsive 2-year-old electrical/thermal burns, slow shallow breaths. First:
 
 ### Q30 🟡  
 **Front**  
-85-year-old struck thigh; bruise, severe pain, no deformity. Splint choice?  
+An 85-year-old male complains of severe pain in his right thigh after he was struck above his knee with a metal pole. He complains of weakness in his leg, and you observe bruising where he was struck. You do not palpate any instability or deformity. You should:
 • Elastic wrap • Traction splint • **Padded board splint** • Long backboard  
 
 **Back**  
@@ -329,7 +329,7 @@ Unresponsive 2-year-old electrical/thermal burns, slow shallow breaths. First:
 
 ### Q31 🟢  
 **Front**  
-Nail impaled in palm near thumb, no deficits. Action?  
+A 73-year-old male has a nail impaled in the palm of his hand near the base of his thumb. He tells you he was using a nail gun and it ricocheted off the wood into his hand. He can move all his digits and does not have any neurological or circulatory deficits. You should:
 • **Stabilize with bulky dressing** • Splint hand • Cold pack • Remove nail  
 
 **Back**  
@@ -339,7 +339,7 @@ Nail impaled in palm near thumb, no deficits. Action?
 
 ### Q32 🟡  
 **Front**  
-Drain cleaner vs muriatic acid eye splash—longer irrigation with drain cleaner because:  
+Why should you irrigate the eye of a patient who was splashed with drain cleaner longer than a patient who was splashed with muriatic acid?
 • Coagulates tissue • **Alkali liquefies tissue and penetrates deeper** • pH similar to eye • More water-soluble  
 
 **Back**  
@@ -349,7 +349,7 @@ Drain cleaner vs muriatic acid eye splash—longer irrigation with drain cleaner
 
 ### Q33 🟢  
 **Front**  
-35-year-old human bite: slight bleeding; patient refuses hospital. EMT should:  
+A 35-year-old female complains of arm pain where she was bitten by a male attacker. You observe teeth marks, slight bleeding, and bruising to the area. She tells you she doesn't want to go to the hospital, and she just wants you to look at it. You should:
 • **Apply sterile dressing and explain need for hospital care**  
 • Refuse treatment if she won’t go  
 • Threaten loss of arm  
@@ -362,8 +362,8 @@ Drain cleaner vs muriatic acid eye splash—longer irrigation with drain cleaner
 
 ### Q34 🟡  
 **Front**  
-79-year-old T-spine deformity, dyspnea, lacks sensation below nipples. After C-collar you should:  
-• Supine stretcher & NRB • Supine stretcher O₂ 15 L • **Long-backboard immobilization** • Semi-Fowler on stretcher  
+A 79-year-old male lost his balance and fell, landing on his back. He complains of pain in his upper back, and you palpate a deformity to T-6. He has a history of CHF and tells you he needs to sit up so he can breathe. He is on home oxygen by nasal cannula, 3 L/minute. He is not able to feel below his xiphoid process or move his legs. You should apply a cervical collar and:
+• Supine stretcher & NRB • Supine stretcher O₂ 15 L • Long-backboard immobilization • **Semi-Fowler on stretcher**  
 
 **Back**  
 **Answer:** Suspected spinal cord injury → full immobilization despite breathing discomfort.  
@@ -372,28 +372,28 @@ Drain cleaner vs muriatic acid eye splash—longer irrigation with drain cleaner
 
 ### Q35 🟢  
 **Front**  
-Purpose of constricting band after venomous snake bite is to impede:  
-• Venom • Arterial blood • **Lymph** • Both A & C  
+The purpose of a constricting band after a venomous snake bite is to impede the spread of which of the following?
+• **Venom** • Arterial blood • Lymph • Both A & C  
 
 **Back**  
-**Answer:** Slows lymphatic spread of venom.  
+**Answer:** Slows spread of venom.  
 
 ---
 
 ### Q36 🟢  
 **Front**  
-70-year-old MVC with paradoxical movement. First?  
-• **Administer oxygen** • Vest extrication device • Rapid extrication • Bulky dressing chest  
+An unresponsive 70-year-old female was the unrestrained driver involved in a front end car crash. She has a hematoma to her forehead, she is taking rapid, shallow respirations, and you observe paradoxical chest wall movement. You should first:
+• Administer oxygen • Vest extrication device • **Rapid extrication** • Bulky dressing chest  
 
 **Back**  
-**Answer:** High-flow O₂ for suspected flail chest while still seated.  
+**Answer:** Rapid extrication  
 
 ---
 
 ### Q37 🟢  
 **Front**  
-88-year-old muriatic acid spill on chest. First action?  
-• Remove clothing • Into ambulance • Pour water • Apply baking soda  
+An 88-year-old male spilled muriatic acid on himself while cleaning metal. He complains of pain to his chest and abdomen. You observe that his clothing is wet where he spilled the acid. You should first:
+• **Remove clothing** • Into ambulance • Pour water • Apply baking soda  
 
 **Back**  
 **Answer:** Strip contaminated clothing before irrigation.  
@@ -402,7 +402,7 @@ Purpose of constricting band after venomous snake bite is to impede:
 
 ### Q38 🟡  
 **Front**  
-Why proximal-humerus fracture in 3-yr-old serious if untreated?  
+Why can a fracture to the proximal end of a 3-year-old male's humerus be more serious than a fracture in the same location of a 33-year-old female if it is not treated properly?
 • **Arm may not grow properly (growth-plate injury).**  
 • Increased hemorrhage  
 • More soft-tissue injury  
@@ -415,7 +415,7 @@ Why proximal-humerus fracture in 3-yr-old serious if untreated?
 
 ### Q39 🟢  
 **Front**  
-Unresponsive 2-yr fall; after O₂, next priority?  
+An unresponsive 2-year-old male fell eight feet from a slide at a city park. You observe a hematoma to his occiput. His skin above his axilla is pale and diaphoretic, and pink and dry below. His left forearm is obviously fractured. His vital signs are P 156, R 48, and his capillary refill is less than two seconds. Prior to transport, you should administer oxygen and:
 • Detailed exam • Wait for mom • Splint arm • **Spinal motion restriction**  
 
 **Back**  
@@ -425,7 +425,7 @@ Unresponsive 2-yr fall; after O₂, next priority?
 
 ### Q40 🟡  
 **Front**  
-45-year-old stab R chest 1 in from sternum; JVD, clear lungs. Management?  
+An unresponsive 45-year-old female was stabbed in her right chest an inch lateral to her sternum. Her skin is pale and diaphoretic. You observe jugular vein distention and auscultate clear lung sounds bilaterally in all fields. Her vital signs are P 118 and R 18. You should:
 • **Apply occlusive dressing** • Right-side position • C-collar • Assist ventilation  
 
 **Back**  
@@ -435,7 +435,7 @@ Unresponsive 2-yr fall; after O₂, next priority?
 
 ### Q41 🟢  
 **Front**  
-Dog bite with skin flap =  
+An 82-year-old female was bitten by a dog. You observe an irregularly shaped flap of skin on her arm. You should suspect a(n):
 • Abrasion • Amputation • **Avulsion** • Laceration  
 
 **Back**  
@@ -445,7 +445,7 @@ Dog bite with skin flap =
 
 ### Q42 🟢  
 **Front**  
-Forearm laceration, direct pressure fails. Next?  
+A 63-year-old male has an irregular three-inch laceration across his right forearm. He tells you he feels nauseated and light-headed. You observe a steady flow of dark, red blood. You are unable to stop the flow with direct pressure. You should next:
 • Brachial artery pressure • Elevate arm • Pressure dressing • **Tourniquet proximal**  
 
 **Back**  
@@ -455,7 +455,7 @@ Forearm laceration, direct pressure fails. Next?
 
 ### Q43 🟢  
 **Front**  
-21-year-old GSW left chest mild dyspnea. First?  
+A 21-year-old female complains of chest pain. She has a gunshot wound to her left chest wall, and she has mild dyspnea. Her skin is pink and dry. You should first:
 • **Place gloved hand over wound** • Assist ventilation • Assess vitals • O₂ NRB  
 
 **Back**  
@@ -465,7 +465,7 @@ Forearm laceration, direct pressure fails. Next?
 
 ### Q44 🟡  
 **Front**  
-Most valuable indicator of high-priority in 51-y-o female driver (20-in intrusion, pelvis unstable, unresponsive):  
+An unresponsive 51-year-old female was the driver involved in a car crash. There is 20 inches of intrusion to her door. Her pelvis is unstable when palpated. Her vital signs are P 108, R 18, BP 102/78, and SpO2 is 92% on room air. Which of the following is the most valuable finding to indicate that she is a high priority patient?
 • Amount of intrusion • Vital signs • **Level of consciousness** • Injuries  
 
 **Back**  
@@ -475,7 +475,7 @@ Most valuable indicator of high-priority in 51-y-o female driver (20-in intrusio
 
 ### Q45 🟡  
 **Front**  
-24-y-o bar-fight 5 days ago; LUQ & shoulder pain, yellow bruises; vitals 116/18, 116/90. Best care?  
+A 27-year-old male complains of pain in his left upper abdominal quadrant and left shoulder. He tells you he was in a bar fight five days ago. You observe yellowing bruises to his face, chest, and upper abdomen. His vital signs are P 116, R 18, BP 116/90, and SpO2 is 95% on room air. You should:
 • Sling left arm cold pack • C-collar + board • **Oxygen & keep warm (possible splenic injury)** • Aspirin + water  
 
 **Back**  
@@ -485,7 +485,7 @@ Most valuable indicator of high-priority in 51-y-o female driver (20-in intrusio
 
 ### Q46 🟢  
 **Front**  
-58-y-o male chest pain after MVC, pain ↑ with inspiration, clear lungs. Treatment?  
+A 58-year-old male complains of midsternal chest pain after a car crash. He tells you that he was pain-free before the crash. His skin is pale and diaphoretic. His lungs are clear to auscultation, and the pain increases with deep inspiration. His vital signs are P 112, R 18, BP 118/86, and SpO2 is 95% on room air. You should:
 • Orthostatic test • Nitro assist • **Administer oxygen** • Aspirin  
 
 **Back**  
@@ -495,18 +495,18 @@ Most valuable indicator of high-priority in 51-y-o female driver (20-in intrusio
 
 ### Q47 🟢  
 **Front**  
-Sexual-assault patient with chest & groin pain, no visible bleeding. After lung sounds you should:  
-• **Transport for medical/forensic evaluation**  
-• Ask if bleeding • Request female officer exam • Expose for bleeding  
+A 43-year-old female tells you that she was sexually assaulted. She complains of pain in her chest and groin from being kicked. You do not see any signs of bleeding through her outer clothing. You should listen to her lung sounds and:
+• Transport for medical/forensic evaluation 
+• **Ask if bleeding** • Request female officer exam • Expose for bleeding  
 
 **Back**  
-**Answer:** Minimize on-scene exam; prompt hospital care.  
+**Answer:** Ask if bleeding 
 
 ---
 
 ### Q48 🟢  
 **Front**  
-6-y-o arterial spray arm wound. First action?  
+A 6-year-old male fell off his bicycle and cut his upper arm. His mother is holding a blood-soaked towel over the wound. When you examine the wound, you see a five-inch laceration that is spraying blood. You should immediately:
 • Tourniquet • Brachial compression • Elevate • **Direct pressure**  
 
 **Back**  
@@ -516,7 +516,7 @@ Sexual-assault patient with chest & groin pain, no visible bleeding. After lung 
 
 ### Q49 🟡  
 **Front**  
-57-y-o multiple screwdriver chest stabs. After occlusive dressings you should:  
+A 57-year-old male was stabbed multiple times in his anterior right chest wall with a screwdriver. He tells you he has pain and difficulty breathing. You should apply occlusive dressings and:
 • Right lateral position • Assist ventilations • **Auscultate lung sounds** • Board & collar  
 
 **Back**  
@@ -526,7 +526,7 @@ Sexual-assault patient with chest & groin pain, no visible bleeding. After lung 
 
 ### Q50 🟢  
 **Front**  
-70-y-o female side-impact MVC; diminished left lung, bowel sounds in left base. Vitals stable. You should:  
+A 70-year-old female who was the unrestrained driver in a car crash complains of difficulty breathing. She has a history of asthma and a pacemaker implanted. You auscultate diminished lung sounds and bowel sounds in her left base. Her vital signs are P 70, R 22, BP 138/74, and SpO2 is 96% on room air. You should:
 • Assist ventilations • Wrap chest • Inhaler • **Administer oxygen**  
 
 **Back**  
@@ -536,7 +536,7 @@ Sexual-assault patient with chest & groin pain, no visible bleeding. After lung 
 
 ### Q51 🟡  
 **Front**  
-A 26-year-old male is trapped between a car and a wall. His pelvis is unstable and his right foot is turned outward. What is the best method to stabilize the pelvis?  
+A 26-year-old male trapped between a car and wall complains of right hip pain. When he is extricated, his pelvis is unstable to palpation, and his right foot is turned outward. You should:
 · Apply a traction splint to the right leg  
 · Apply cold packs to the hip  
 · Use longboard splints to immobilize the hip  
@@ -549,7 +549,7 @@ A 26-year-old male is trapped between a car and a wall. His pelvis is unstable a
 
 ### Q52 🟢  
 **Front**  
-A 52-year-old male presents with bright-red urine, left-flank tenderness, and thirst one hour after a car crash. Vital signs: P 106, R 22, BP 122/90, SpO₂ 93 % RA. You should:  
+A 52-year-old male has bright red blood in his urine. He complains of left flank tenderness and thirst. His skin is pale, cool, and diaphoretic. He tells you that an hour ago he was the restrained driver of a car involved in a crash. He tells you the driver's door was pushed in a foot, but he refused treatment. You should:
 · Allow small sips of water  
 · Collect a urine sample  
 · Apply c-spine and long-board immobilization  
@@ -575,7 +575,7 @@ Why should an impaled object in the chest wall generally **not** be removed in t
 
 ### Q54 🟢  
 **Front**  
-A disoriented 19-year-old male struck in the right temple shows CSF from the ear and an enlarging hematoma. The EMT should:  
+A disoriented 19-year-old male was struck in the right temple with a golf club. You observe an expanding hematoma to the area and clear fluid draining from his ear. His vital signs are P 64, R 14, BP 192/102, and SpO2 is 94% on room air. You should:
 · Pack the ear with gauze  
 · **Apply a cervical collar**  
 · Direct pressure to the hematoma  
@@ -588,7 +588,7 @@ A disoriented 19-year-old male struck in the right temple shows CSF from the ear
 
 ### Q55 🟢  
 **Front**  
-A 60-year-old male fell backward grabbing a doorframe; deformity below clavicle. Radial pulse intact. Best splinting?  
+A 60-year-old male complains of shoulder pain. He tells you he tripped and grabbed the door frame as he fell backward. He is holding his right arm against his chest, and he tells you he is unable to move it. You observe a deformity below his clavicle and above his axilla, and he has a good radial pulse. You should:
 · Rotate shoulder anatomical position  
 · Gentle traction to lift arm  
 · **Apply sling and swathe**  
@@ -601,7 +601,7 @@ A 60-year-old male fell backward grabbing a doorframe; deformity below clavicle.
 
 ### Q56 🟢  
 **Front**  
-32-year-old female stabbed LLQ; cyanotic, cold left leg; vitals show shock. After O₂ you should:  
+A 32-year-old female complains of abdominal pain and left leg pain after she was stabbed in her left lower abdominal quadrant. You do not observe any injuries to her legs, but her left leg is cyanotic and cold. Her vital signs are P 108, R 18, BP 98/58, and SpO2 is 91% on room air. You should administer oxygen and:
 · Immobilize left leg · Pack wound · Moist sterile dressing · **Keep her warm**  
 
 **Back**  
@@ -611,20 +611,20 @@ A 60-year-old male fell backward grabbing a doorframe; deformity below clavicle.
 
 ### Q57 🟡  
 **Front**  
-52-year-old female cut live wire, full-thickness burns right hand/elbow, numb lower arm. First action after scene safety?  
-· **Assess radial pulse in right wrist**  
+A 52-year-old female was cutting a branch when she accidentally cut through the power line to her house. She is standing outside and tells you she has severe pain in her right upper arm and cannot feel anything in her right lower arm. You observe full thickness burns to her right hand and elbow. You should first:
+· Assess radial pulse in right wrist  
 · Apply sling & swathe  
 · Immobilize on long backboard  
-· Obtain vital signs  
+· **Obtain vital signs**  
 
 **Back**  
-**Answer:** Evaluate distal circulation for hidden electrical/vascular damage.  
+**Answer:** Evaluate vital signs.  
 
 ---
 
 ### Q58 🟢  
 **Front**  
-An 82-year-old male stepped on a nail; small puncture wound. Care?  
+An 82-year-old male complains of foot pain after he stepped on a nail. You observe a small puncture wound and a small amount of blood on his sock. You should:
 · Elastic wrap · Soak in warm water · Bleach solution · **Apply sterile dressing**  
 
 **Back**  
@@ -634,7 +634,7 @@ An 82-year-old male stepped on a nail; small puncture wound. Care?
 
 ### Q59 🟢  
 **Front**  
-Three fingers amputated by sander. Coworkers bring fingers. Proper handling?  
+A 66-year-old male complains of hand pain. Three of his fingers were caught in an industrial sander and pulled off his hand. Bleeding is minor and controlled with a dressing. His coworkers bring you the fingers. You should:
 · Wash, bag, place on ice water  
 · **Wrap in sterile gauze, bag, keep bag on ice**  
 · Place directly on ice  
@@ -647,7 +647,7 @@ Three fingers amputated by sander. Coworkers bring fingers. Proper handling?
 
 ### Q60 🟠  
 **Front**  
-51-year-old female large-caliber GSW right chest; absent right lung sounds, narrow pulse pressure, JVD begins. Suspect:  
+A 51-year-old female complains of chest pain and increasing difficulty breathing. She has a large caliber gunshot wound to her right chest wall, fourth intercostal space on the anterior axillary line. You auscultate absent breath sounds on the right side. Her vital signs are P 112, R 22, BP 104/90, and SpO2 is 91% on room air. You should suspect:
 · Flail chest · **Tension pneumothorax** · Cardiac tamponade · Simple pneumothorax  
 
 **Back**  
@@ -657,7 +657,7 @@ Three fingers amputated by sander. Coworkers bring fingers. Proper handling?
 
 ### Q61 🟢  
 **Front**  
-80-year-old female side-impact MVC, bowel sounds in left chest. Management?  
+An 80-year-old female was the restrained driver of a car that was struck directly in the driver's side door. There is 10 inches of intrusion, and she complains of upper abdominal pain and difficulty breathing. She has equal chest wall expansion, and you auscultate diminished breath sounds and bowel sounds in the base of her left lung. You should:
 · Bulky chest dressing · Bandage chest · Left-side position · **Administer high-flow oxygen**  
 
 **Back**  
@@ -667,7 +667,7 @@ Three fingers amputated by sander. Coworkers bring fingers. Proper handling?
 
 ### Q62 🟢  
 **Front**  
-21-year-old male shot LUQ; vitals P 116, BP 100/72. Flat neck veins, clear lungs. Shock type?  
+An unresponsive 21-year-old male was shot in the left upper abdominal quadrant. His skin is pale and diaphoretic. You auscultate clear lung sounds, and his neck veins are flat. His vital signs are P 116, R 20, BP 100/72, and SpO2 is 92% on room air. What type of shock should you suspect?
 · **Hemorrhagic** · Distributive · Intrinsic cardiogenic · Extrinsic cardiogenic  
 
 **Back**  
@@ -677,7 +677,7 @@ Three fingers amputated by sander. Coworkers bring fingers. Proper handling?
 
 ### Q63 🟢  
 **Front**  
-9-year-old struck by car; pelvic abrasion, forearm angulated, shoulder pain. Best overall plan?  
+A 9-year-old female was struck by a car while she was riding her bicycle. She complains of pain in her left forearm, right shoulder, and abdomen. Her skin is pale and cool. Her right shoulder appears uninjured. You observe an angulated injury to her forearm, and distal pulses are present. She has an abrasion to her right upper abdominal quadrant, and the pain increases with palpation. You should perform spinal motion restriction,
 · Splint arm, sling shoulder  
 · **Administer O₂ and rapid transport**  
 · Splint arm in found position  
@@ -690,7 +690,7 @@ Three fingers amputated by sander. Coworkers bring fingers. Proper handling?
 
 ### Q64 🟢  
 **Front**  
-7-year-old pencil impaled through cheek into palate. You should:  
+A 7-year-old female has a pencil impaled in her right cheek. She is upset but follows your instructions. You can visualize that the tip of the pencil is impaled in her palate. You should:
 · Twist pencil to test · Remove & dress · **Stabilize in place** · Remove external end & dress  
 
 **Back**  
@@ -700,17 +700,17 @@ Three fingers amputated by sander. Coworkers bring fingers. Proper handling?
 
 ### Q65 🟡  
 **Front**  
-Unresponsive 35-year-old struck by bat; vitals P 48, BP 216/104, irregular respirations. Suspect:  
-· Neurogenic shock · Subdural hemorrhage · **Closed head injury with ↑ICP** · Skull fracture only  
+An unresponsive 35-year-old female was struck in the head with a softball bat. She has a four-inch laceration, and you palpate an unstable area of the occipital region. Fifteen minutes after the injury, her vital signs are P 48, R 16 and irregular, BP 216/104, and SpO2 is 94% on room air. You should suspect a:
+· Neurogenic shock · Subdural hemorrhage · Closed head injury · **Skull fracture** 
 
 **Back**  
-**Answer:** Cushing’s response indicates severe closed-head injury.  
+**Answer:** Open skull fracture with ICP
 
 ---
 
 ### Q66 🟢  
 **Front**  
-91-year-old female lateral ankle swelling & bruising. Proper immobilization?  
+A 91-year-old female complains of pain after she twisted her right ankle. You observe edema and ecchymosis over her lateral malleolus. The skin on her foot is pink, and she can feel you touch her toes. You should:
 · Hot pack · Test full ROM · **Splint foot & lower leg** · Air splint  
 
 **Back**  
@@ -720,7 +720,7 @@ Unresponsive 35-year-old struck by bat; vitals P 48, BP 216/104, irregular respi
 
 ### Q67 🟢  
 **Front**  
-19-year-old perineal laceration with bright-red bleeding. First action?  
+A 19-year-old female complains of groin pain. She tells you she lacerated her perineum when she crashed her bicycle. You observe bright red blood running down her leg. You should first:
 · Bulky dressing · Assess vitals · **Expose and apply direct pressure** · Pack wound with hemostatic gauze  
 
 **Back**  
@@ -730,7 +730,7 @@ Unresponsive 35-year-old struck by bat; vitals P 48, BP 216/104, irregular respi
 
 ### Q68 🟢  
 **Front**  
-Which action could worsen venomous snake-bite effects?  
+Which of the following could worsen the effects of a snake bite?
 · Having patient lie still · Cutting & suction · Constricting bands · **Applying ice to the bite**  
 
 **Back**  
@@ -740,7 +740,7 @@ Which action could worsen venomous snake-bite effects?
 
 ### Q69 🟢  
 **Front**  
-77-year-old proximal-humerus fracture. Best splint?  
+A 77-year-old female complains of pain in her left upper arm. She tells you she tripped on a rug and fell. Her left proximal humerus is unstable, she can move her fingers, feel your touch, and the radial pulse is present. You should apply a(n):
 · **Sling and swathe** · Padded board · Traction · Air splint  
 
 **Back**  
@@ -750,7 +750,7 @@ Which action could worsen venomous snake-bite effects?
 
 ### Q70 🟡  
 **Front**  
-41-year-old knife stab left breast, mild pain, clear lungs, stable vitals. Suspect:  
+A 41-year-old female complains of left-sided chest pain. She tells you she was stabbed in her left breast with a knife. She denies difficulty breathing, and her lungs are clear to auscultation. You observe slight oozing bleeding from the wound. Her vital signs are P 98, R 16, BP 138/78, and SpO2 is 97% on room air. You should suspect a:
 · Tension pneumothorax · **Simple (open) pneumothorax** · Cardiac tamponade · Bronchial transection  
 
 **Back**  
@@ -760,27 +760,27 @@ Which action could worsen venomous snake-bite effects?
 
 ### Q71 🟢  
 **Front**  
-75-year-old female circumferential blistered/mottled forearms + hands partial-thickness. TBSA?  
-· 9 % · 13.5 % · **18 %** · 4.5 %  
+A 75-year-old female complains of burning pain in her arms. She was working in her garden and spilled a dry powder on them. After you remove the powder, you observe circumferential blistered and mottled skin of both her forearms and hands. What percentage of her Total Body Surface Area should you estimate is burned?
+· **9 %** · 13.5 % · 18 % · 4.5 %  
 
 **Back**  
-**Answer:** Each complete arm = 9 %; both = 18 %.  
+**Answer:** Each complete arm = 9 %; both = 18 % - forearm/hands only = 9 %  
 
 ---
 
 ### Q72 🟠  
 **Front**  
-Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HTN. After gauze cover, EMT should:  
-· Direct pressure · **Assist ventilations at ~24 min⁻¹** · Occlusive dressing · O₂ NRB only  
+An unresponsive 62-year-old male was struck in the head with a falling tree branch. He has a five-inch full thickness laceration to his right parietal region. It is bleeding, and you observe bone fragments in the wound. When you stimulate him, his arms twist outward. His vital signs are P 54, R 18 and irregular, BP 220/106, and SpO2 is 96% on room air. You should cover the wound with gauze and:
+· Direct pressure · Assist ventilations at ~24 min · Occlusive dressing · **Oxygen**
 
 **Back**  
-**Answer:** Mild hyperventilation (20-24/min) helps reduce ICP.  
+**Answer:** Administer oxygen. 
 
 ---
 
 ### Q73 🟡  
 **Front**  
-22-year-old chest contusion, absent right lower breath, BP 88/72. Appropriate positioning/treatment?  
+A 22-year-old male complains of difficulty breathing after being struck in the chest with a pipe. He has a six-inch bruise over his right axilla. His lung sounds are absent on the right lower chest. His vital signs are P 122, R 20, BP 88/72, and SpO2 is 94% on room air. You should:
 · Injured side down · Trendelenburg · Long-board immobilization · **High-flow O₂, keep warm, rapid transport**  
 
 **Back**  
@@ -790,7 +790,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q74 🟢  
 **Front**  
-28-year-old facial trauma, gurgling airway. First action?  
+An unresponsive 28-year-old male's face appears flattened, and you observe clear fluid draining from his nose. He was an unrestrained front seat passenger and struck his face on the dash during a high-speed car crash. He is lying supine on your stretcher, and you hear gurgling when he breathes. You should:
 · Semi-Fowler · **Suction the airway** · Downward nose pressure · Insert NPA  
 
 **Back**  
@@ -800,7 +800,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q75 🟡  
 **Front**  
-23-year-old chest seal patient now worsening: ↑RR, ↓BP, JVD. Next step?  
+A 23-year-old male complained of chest pain after he was stabbed in the right chest with a knife. You applied an occlusive dressing and continued your treatment. His initial vital signs were P 92, R 18, BP 128/82, and SpO2 was 93% on room air. During transport, he complains of difficulty breathing, and his vital signs are P 114, R 22, BP 104/88, and SpO2 is 91% on oxygen 12 L/minute by non-rebreather mask. You should:
 · Assist ventilations · **“Burp” (lift) occlusive dressing to vent air** · Right-side position · Increase O₂ flow  
 
 **Back**  
@@ -810,7 +810,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q76 🟢  
 **Front**  
-38-year-old next to open electrical panel, confused, fingertip burns. Suspicion?  
+A 38-year-old male is found lying on the ground next to an open electrical panel. His coworker tells you she heard him fall and saw him shaking. As you approach, he appears confused and is unable to sit up. You do not observe any deformities or injuries other than small areas of black burned skin on the tips of his fingers. You should suspect:
 · **Electrical burns/internal injury** · Hypoglycemia · Stroke · Epilepsy  
 
 **Back**  
@@ -820,7 +820,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q77 🟢  
 **Front**  
-34-year-old fall; arm was angulated, now 1-cm laceration over deformity. Fracture type?  
+A 34-year-old male fell from a tree and landed on his left arm. He is sitting leaning against the tree holding his arm against his body. He tells you that before he sat up, his arm was angulated. You palpate instability of his left humerus and observe a centimeter laceration with minimal bleeding. What type of fracture should you suspect?
 · Pathological · **Open (compound)** · Greenstick · Closed  
 
 **Back**  
@@ -830,7 +830,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q78 🟢  
 **Front**  
-4 cm laceration left neck. Occlusive dressing prevents air entering:  
+A 50-year-old female has a four-centimeter full thickness laceration to the left side of her neck. You should apply an occlusive dressing to prevent air from entering her:
 · Arterial circulation · Pleural space · Trachea · **Venous circulation**  
 
 **Back**  
@@ -840,7 +840,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q79 🟢  
 **Front**  
-95-year-old male fall FOOSH; mid-forearm deformity. Fractured bones?  
+A 95-year-old male complains of right arm pain. He tells you he fell and landed with his arms outstretched. You observe a midshaft deformity to his forearm. You should suspect a fracture of his:
 · Scapula & clavicle · **Radius and ulna** · Carpals/metacarpals · Tibia/fibula  
 
 **Back**  
@@ -850,7 +850,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q80 🟡  
 **Front**  
-95-year-old female T-spine deformity, no sensation below nipples. Injury location?  
+A 95-year-old female complains of pain in her head and back. She tells you she fell down a flight of stairs. She has a hematoma over her right temple and a deformity to her fourth thoracic vertebrae. She does not have any feeling below her nipple line, and she cannot move her legs. Her vital signs are P 100, R 16, BP 102/84, and SpO2 is 94% on room air. You should suspect an injury to her:
 · Peripheral nerves · Medulla · Temporal cortex · **Spinal cord**  
 
 **Back**  
@@ -860,7 +860,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q81 🟢  
 **Front**  
-32-year-old female calf pale, swollen, “pins & needles”, no distal pulse. Suspect:  
+A 32-year-old female fell while hiking and she complains of extreme left calf pain. You do not observe any abnormal angulation of her leg. The skin on her left calf is pale, swollen, and she tells you she feels a pins and needles sensation. You are unable to palpate a distal pulse. You should suspect:
 · Neurological injury · **Compartment syndrome** · Severe spasm · Comminuted fracture  
 
 **Back**  
@@ -870,7 +870,7 @@ Unresponsive 62-year-old male skull laceration, bone fragments, bradycardia & HT
 
 ### Q82 🟡  
 **Front**  
-Why must apparently minor human-bite punctures be evaluated in hospital?  
+Why should an apparently minor human bite that breaks the skin be evaluated at the hospital?
 · Longer bruise development · **High infection risk** · Slower healing than avulsions · High underlying tissue damage  
 
 **Back**  
@@ -880,7 +880,7 @@ Why must apparently minor human-bite punctures be evaluated in hospital?
 
 ### Q83 🟡  
 **Front**  
-38-year-old female struck abdomen with bat, bright-red vaginal bleed. Appropriate dressing?  
+A 38-year-old female was struck across her lower abdomen with a baseball bat. Her skin is pale, cool, and diaphoretic. She tells you she has bright red bleeding from her vagina. You should apply a:
 · Hemostatic to wound · Direct pressure to source · **Bulky external dressing to vaginal opening** · Cold pack abdomen  
 
 **Back**  
@@ -890,7 +890,7 @@ Why must apparently minor human-bite punctures be evaluated in hospital?
 
 ### Q84 🟢  
 **Front**  
-Which injury **requires** an occlusive dressing?  
+Which of the following injuries requires the use of an occlusive dressing?
 · Open chest wound · Open neck wound · Abdominal evisceration · **All of the above**  
 
 **Back**  
@@ -900,7 +900,7 @@ Which injury **requires** an occlusive dressing?
 
 ### Q85 🟡  
 **Front**  
-23-year-old thigh laceration; tourniquet applied, vitals indicate shock. Which action improves outcome most?  
+A 23-year-old female has a five-inch laceration to her left thigh. You were unable to control her hemorrhage, so you applied a tourniquet and stopped the bleeding. During transport, her vital signs are P 104, R 18, BP 88/62, and SpO2 is 97% on oxygen by non-rebreather mask at 12 L/minute. Of the following, which will help to improve her outcome the most?
 · Achieve SpO₂ 100 % · **Keep the patient warm** · Hemostatic dressing · Leg elevation  
 
 **Back**  
@@ -910,7 +910,7 @@ Which injury **requires** an occlusive dressing?
 
 ### Q86 🟢  
 **Front**  
-41-year-old screwdriver RUQ, expanding hematoma, minor oozing. Next?  
+A 41-year-old female was stabbed in her right thigh with a screwdriver. Her skin is warm, dry, and pink. You observe blood oozing from a two-centimeter wound and feel an expanding hematoma under her skin. You should:
 · Pack with hemostatic gauze · **Apply direct pressure** · Tourniquet · Sterile dressing only  
 
 **Back**  
@@ -920,7 +920,7 @@ Which injury **requires** an occlusive dressing?
 
 ### Q87 🟢  
 **Front**  
-Unresponsive 37-year-old kicked by donkey; CSF from nose. Suspect:  
+An unresponsive 37-year-old female was kicked in the head by a donkey. She has snoring respirations, and you observe clear fluid draining from her nose. You should suspect:
 · Fluid in lower airway · Fluid in upper airway · **Basilar skull fracture** · Tear-duct laceration  
 
 **Back**  
@@ -930,7 +930,7 @@ Unresponsive 37-year-old kicked by donkey; CSF from nose. Suspect:
 
 ### Q88 🟡  
 **Front**  
-71-year-old partial-thickness face burn; hoarse voice, throat tight. Management?  
+A 71-year-old male has partial thickness flash burns to his face. He tells you he was smoking in the bathroom while on oxygen by nasal cannula when it happened. The hair in his nostrils and eyebrows is singed. While he is speaking to you, you notice his voice is becoming more hoarse. He complains that his throat is tightening, and he has trouble breathing. You should:
 · O₂ cannula · O₂ NRB · **Immediate transport (airway swelling)** · Assess vitals before transport  
 
 **Back**  
@@ -940,7 +940,7 @@ Unresponsive 37-year-old kicked by donkey; CSF from nose. Suspect:
 
 ### Q89 🟢  
 **Front**  
-17-year-old broom-handle impaled from sternal notch to below ear. You should:  
+A 17-year-old female has a broken broom handle with a one-inch diameter impaled in her neck, entering at the sternal notch, and exiting below her right ear. She states, "I was outside when the handle blown by the tornado hit me." You should:
 · Remove & occlude · C-collar & board · Cut flush · **Stabilize object in place**  
 
 **Back**  
@@ -950,7 +950,7 @@ Unresponsive 37-year-old kicked by donkey; CSF from nose. Suspect:
 
 ### Q90 🟢  
 **Front**  
-58-year-old degloving injury hand; minor bleed. Dressing?  
+A 58-year-old male has a degloving injury to his left hand after it was trapped in a piece of machinery. You observe minor bleeding, and his hand is misshapen. You should apply a(n):
 · Splint position of function · Pressure dressing · **Sterile dressing** · Air splint  
 
 **Back**  
@@ -960,7 +960,7 @@ Unresponsive 37-year-old kicked by donkey; CSF from nose. Suspect:
 
 ### Q91 🟡  
 **Front**  
-51-year-old chest stab 1 in lateral sternum; JVD, clear lungs. Suspect:  
+An unresponsive 51-year-old male was stabbed in the fourth intercostal space of his left chest an inch lateral to his sternum. His skin is pale, cool, and diaphoretic. His lungs are clear to auscultation, and you observe his neck veins are distended. You should suspect:
 · Hemothorax · Tension pneumo · **Cardiac tamponade** · Hemopneumothorax  
 
 **Back**  
@@ -970,7 +970,7 @@ Unresponsive 37-year-old kicked by donkey; CSF from nose. Suspect:
 
 ### Q92 🟢  
 **Front**  
-Electrical-shock patient now conscious. Best overall plan?  
+You are dispatched to a local industrial plant for an "electrical injury." You arrive on-scene and find a 46-year-old male lying supine in front of an electrical panel. You are told he was attempting to make a repair and somehow received an electrical shock and was thrown to the ground. The scene is safe and the electricity is off. Your initial exam reveals a conscious person, breathing adequately. Vital signs are normal and there are no obvious signs of burns. Coworkers state that he was unconscious until your arrival. What is the next step?
 · Stay & encourage refusal  
 · Load & go with en-route assessment  
 · **Rapid on-scene assessment, O₂, spine precautions, prompt transport**  
@@ -983,7 +983,7 @@ Electrical-shock patient now conscious. Best overall plan?
 
 ### Q93 🟢  
 **Front**  
-5-year-old spilled liquid drain cleaner on hand. Odor strong. First care?  
+A 5-year-old male complains of pain in his left hand after he spilled liquid drain cleaner on it. His hand is reddened, and you smell a strong chemical odor. You should:
 · Brush substance off · Sterile dressing · **Flush with copious water** · Neutralize with baking soda  
 
 **Back**  
@@ -993,7 +993,7 @@ Electrical-shock patient now conscious. Best overall plan?
 
 ### Q94 🟡  
 **Front**  
-60-year-old electrical shock; irregular pulse, full-thickness burns. Which finding is immediate life threat?  
+A 60-year-old male was working on an electrical appliance when he shocked himself and became unresponsive. His wife tells you that while he was unresponsive, he was shaking all over. His only past medical history is hypertension. You observe full thickness burns to his right hand and both knees. His vital signs are P 82 and irregular, R 16, BP 168/78, and SpO2 is 94% on room air. Which of the above findings has the potential to be an immediate life threat?
 · **Irregular cardiac rhythm** · Hypertension · Prior seizure · Burns  
 
 **Back**  
@@ -1003,7 +1003,7 @@ Electrical-shock patient now conscious. Best overall plan?
 
 ### Q95 🟢  
 **Front**  
-Why is a 7-year-old more prone to splenic injury in MVC?  
+Why is a 7-year-old female more prone to fracture her spleen in a car crash than an adult?
 · Not calcified · Abdominal muscles displace it · **Ribs provide less protection** · Encapsulated in liver  
 
 **Back**  
@@ -1013,7 +1013,7 @@ Why is a 7-year-old more prone to splenic injury in MVC?
 
 ### Q96 🟢  
 **Front**  
-Pediatric trauma characteristic masking injuries:  
+Which of the following is a characteristic of pediatric trauma that can mask significant internal injuries after a child is struck by a car?
 · Multiple healing bruises · **No obvious external trauma may be present.**  
 · Well-protected organs · Poor compensatory mechanisms  
 
@@ -1024,7 +1024,7 @@ Pediatric trauma characteristic masking injuries:
 
 ### Q97 🟢  
 **Front**  
-11-month-old chest stab bubbling wound. First action?  
+An 11-month-old female was stabbed in the chest with a knife. You open her shirt and observe a half-inch laceration to the right side of her chest that is bubbling. You should immediately:
 · Vented seal · Pack with gauze · **Cover with gloved hand, then place vented occlusive dressing**  
 · Non-vented occlusive  
 
@@ -1035,7 +1035,7 @@ Pediatric trauma characteristic masking injuries:
 
 ### Q98 🟡  
 **Front**  
-24-year-old horse-kick chest, absent left lower breath, sharp pain, BP 92/80. Suspect:  
+A 24-year-old female complains of chest pain and difficulty breathing. She tells you a horse kicked her in the chest. Her skin is pale and diaphoretic. You observe a contusion to the left side of her anterior chest wall. Breath sounds are absent over her left lower lung. Her vital signs are P 116, R 22, BP 92/80, and SpO2 is 95% on room air. You should suspect:
 · Pneumothorax · Flail chest · Tension pneumo · **Hemothorax**  
 
 **Back**  
@@ -1045,7 +1045,7 @@ Pediatric trauma characteristic masking injuries:
 
 ### Q99 🟢  
 **Front**  
-4-year-old chest/abd contusions; decreased breath and bowel in left chest; R 40, SpO₂ 92 %. Treatment?  
+A 4-year-old male complains of difficulty breathing. He tells you he was struck by a car. You observe contusions and abrasions to his chest and abdomen. You auscultate decreased lung sounds and bowel sounds in his left lower chest. His vital signs are P 112, R 40, BP 100/74, and SpO2 is 92% on room air. You should:
 · Right-side position · Assist ventilations · **Administer O₂ high-flow** · Left-side position  
 
 **Back**  
@@ -1055,7 +1055,7 @@ Pediatric trauma characteristic masking injuries:
 
 ### Q100 🟢  
 **Front**  
-21-year-old penis GSW; outer clothing saturated with blood. First action?  
+A 21-year-old male has a gunshot wound to his penis. You observe that his outer clothing is saturated with blood. You should:
 · Hemostatic dressing · Bulky dressing · Assess vitals · **Expose and apply direct pressure**  
 
 **Back**  
